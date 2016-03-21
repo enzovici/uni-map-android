@@ -1,0 +1,21 @@
+{	
+	"tipo":"bar",	
+	"icona":"svg/barMarker.svg",
+	"lista":[
+		{
+			"nome":"Bar Sapere & Sapori",
+			"lat":40.775302,
+			"lon":14.788203
+		},
+		{
+			"nome":"Bar Positano",
+			"lat":40.772113,
+			"lon":14.791245
+		},
+		{
+			"nome":"Bar Paestum",
+			"lat":40.770616,
+			"lon":14.793157
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+"pathId": "path36",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Economia (distributori) </li><li> <img src='png/camminare.png'> &nbsp; 2. Percorrere il ponte che collega i due plessi di economia</li><li> <img src='png/dx.png'> &nbsp; 3. Girare a DESTRA subito dopo i bagni</li><li> <img src='png/ascensore.png'> &nbsp; 4. Entrare nell&#39;ascensore (Tasto: 0)</li><li> <img src='png/uscita.png'> &nbsp; 5. Uscire dal plesso di Economia </li><li> <img src='png/fontana.png'> &nbsp; 6. Costeggiare la fontana alla propria DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 7. Attraversare la piazza </li> <li> <img src='png/discesa.png'> &nbsp; 8. Proseguire fino alla rampa</li><li> <img src='png/dritto.png'> &nbsp; 9. Proseguire dritto</li><li> <img src='png/incrocio.png'> &nbsp; 10. Dirigersi fino al terzo incrocio (dopo il teatro dell&#39;Ateneo)</li><li> <img src='png/dx.png'> &nbsp; 11. Girare a DESTRA</li><li> <img src='png/dritto.png'> &nbsp; 12. Proseguire dritto fino al Rettorato</li><li> <img src='png/entrata.png'> &nbsp; 13. Entrare all&#39;interno del plesso del rettorato e dirigersi verso la sezione R8-Rettorato</li><li> <img src='png/dritto.png'> &nbsp; 14. Mantenere la sinistra e proseguire dritto lasciando sulla destra una rampa di scale</li><li> <img src='png/camminare.png'> &nbsp; 15. Entrare nel corridoio e percorrerlo finche non si raggiunge un atrio, il laboratorio si trova di fronte all&#39;uscita di emergenza</li><li> <img src='png/arrivo.png'> &nbsp; 16. Arrivo al laboratorio H</li></ul>", 
+"lista": [{
+	"index": 0,
+	"lat": 40.771533,
+	"lon": 14.792531
+},
+{
+	"index": 1,
+	"lat": 40.771334,
+	"lon": 14.792049
+},
+{
+	"index": 2
+},
+{
+	"index": 3
+},
+{
+	"index": 4,
+	"lat": 40.771254,
+	"lon": 14.791883
+},
+{
+	"index": 5,
+	"lat": 40.770955,
+	"lon": 14.792087
+},
+{
+	"lat": 40.770833,
+	"lon": 14.791806
+},
+{
+	"index": 6,
+	"lat": 40.770392,
+	"lon": 14.792156
+},
+{
+	"index": 7
+},
+{
+	"index": 8,
+	"lat": 40.770073,
+	"lon": 14.792264
+},
+{
+	"index": 9,
+	"lat": 40.769461,
+	"lon": 14.792775
+},
+{
+	"index": 10
+},
+{
+	"index": 11,
+	"lat": 40.769069,
+	"lon": 14.791780
+},
+{
+	"index": 12,
+	"lat": 40.768944,
+	"lon": 14.791878
+},
+{
+	"index": 13
+},
+{
+	"index": 14
+},
+{
+	"index": 15,
+	"lat": 40.768944,
+	"lon": 14.791878
+}
+]}

@@ -1,0 +1,41 @@
+{	
+	"tipo":"parcheggi",	
+	"icona":"svg/parcheggiMarker.svg",
+	"lista":[
+		{
+			"nome":"Giulio Natta",
+			"lat":40.775573,
+			"lon":14.787509
+		},
+		{
+			"nome":"Viale della Conoscenza",
+			"lat":40.775227,
+			"lon":14.787040
+		},
+		{
+			"nome":"Enrico Fermi",
+			"lat":40.774831,
+			"lon":14.788009
+		},
+		{
+			"nome":"Biblioteca Scientifica",
+			"lat":40.773904,
+			"lon":14.787811
+		},
+		{
+			"nome":"Terminal Bus",
+			"lat":40.773608,
+			"lon":14.791941
+		},
+		{
+			"nome":"Poste - Polizia - Banca",
+			"lat":40.768790,
+			"lon":14.789823
+		},
+		{
+			"nome":"Multipiano",
+			"lat":40.767205,
+			"lon":14.793299
+		}
+	]
+}

@@ -1,0 +1,64 @@
+{
+"pathId": "path13",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Dalla mensa prendere l&#39;uscita (frontale al terminal) e scendere lungo il vialetto</li><li> <img src='png/sx.png'> &nbsp; 2. Girare a SINISTRA</li><li> <img src='png/discesa.png'> &nbsp; 3. Percorrere la discesa in direzione ingegneria</li><li> <img src='png/bar.png'> &nbsp; 4. Entrare in corrispondenza dell&#39;area bar o al primo ingresso utile</li><li> <img src='png/dx.png'> &nbsp; 5. Girare a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 6. Percorrere tutto il corridoio per circa <span>200m</span></li><li> <img src='png/ascensore.png'> &nbsp; 7. Giunti in fondo all&#39;edificio, utilizzare l&#39;ascensore sulla sinistra (Tasto: -1)</li><li> <img src='png/uscita.png'> &nbsp; 8. Esci dal plesso</li><li> <img src='png/camminare.png'> &nbsp; 9. Proseguire esternamente per altri <span>100m</span>, prendere direzione dipartimento di farmacia</li><li> <img src='png/dx.png'> &nbsp; 10. Girare a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 11. Proseguire verso l&#39;edificio a specchio SMFN</li><li> <img src='png/entrata.png'> &nbsp; 12. Entra nel secondo ingresso a destra</li><li> <img src='png/arrivo.png'> &nbsp; 13. Arrivo al punto di incontro di Informatica</li></ul>", 
+"lista": [{
+	"lat": 40.772867,
+	"lon": 14.793504
+},
+{
+	"lat": 40.772827,
+	"lon": 14.793413
+},
+{
+	"lat": 40.773164,
+	"lon": 14.793171
+},
+{
+	"lat": 40.773382,
+	"lon": 14.793682
+},
+{
+	"lat": 40.773197,
+	"lon": 14.793816
+},
+{
+	"lat": 40.773448,
+	"lon": 14.793680
+},
+{
+	"lat": 40.772538,
+	"lon": 14.791515
+},
+{
+	"lat": 40.772367,
+	"lon": 14.791447
+},
+{
+	"lat": 40.772287,
+	"lon": 14.791237
+},
+{
+	"lat": 40.773648,
+	"lon": 14.790193
+},
+{
+	"lat": 40.773573,
+	"lon": 14.789981
+},
+{
+	"lat": 40.773802,
+	"lon": 14.789861
+},
+{
+	"lat": 40.774547,
+	"lon": 14.789275
+},
+{
+	"lat": 40.774734,
+	"lon": 14.789712
+},
+{
+	"lat": 40.774688,
+	"lon": 14.789755
+}
+]}

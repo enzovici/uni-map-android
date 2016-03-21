@@ -1,0 +1,109 @@
+{
+	"tipo": "dipartimenti",
+	"icona": "svg/dipartimentiMarker.svg",
+	"lista": [{
+		"nome": "Scienze Aziendali - Management<br>e Innovation Systems",
+		"titolo": "DISA-MIS",
+		"info": "<div style='font-weight:bold;font-style:italic'>Nome</div><div>Scienze Aziendali - Management e Innovation Systems</div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>LOIA Vincenzo</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>089 96 8228</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.disa.unisa.it</div>",
+		"lat": 40.771253,
+		"lon": 14.792075
+	},
+	{
+		"nome": "Giurisprudenza",
+		"titolo": "DSG",
+		"info": "<div style='font-weight:bold;font-style:italic'>Nome</div><div>Dipartimento di Scienze Giuridiche</div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>PERONGINI Sergio</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>089 96 2364</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.unisa.it/dipartimenti/dsg/index</div>",
+		"lat": 40.769369,
+		"lon": 14.793277
+	},
+	{
+		"nome": "Scienze del Patrimonio Culturale",
+		"titolo": "DISPAC",
+		"info": "<div style='font-weight:bold;font-style:italic'>Nome</div><div>Dipartimento di Scienze del Patrimonio Culturale</div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>RIITANO Mariagiovanna</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>089 96 2839</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.unisa.it/dipartimenti/dip_scienze_del_patrimonio_culturale/index</div>",
+		"lat": 40.770850,
+		"lon": 14.792955
+	},
+	{
+		"nome": "Scienze Politiche, Sociali<br>e della Comunicazione",
+		"titolo": "DISPSC",
+		"info": "<div style='font-weight:bold;font-style:italic'>Nome</div><div>Dipartimento di Scienze Politiche, Sociali e della Comunicazione </div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>ELIA Annibale</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>089 96 3016</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.spsc.unisa.it/index</div>",
+		"lat": 40.770956,
+		"lon": 14.791296
+	},
+	{
+		"nome": "Scienze Economiche e Statistiche",
+		"titolo": "DISES",
+		"info": "<div style='font-weight:bold;font-style:italic'>Nome</div><div>Dipartimento di Scienze Economiche e Statistiche </div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>PERNA Cira</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>089 96 2207</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.dises.unisa.it</div>",
+		"lat": 40.771839,
+		"lon": 14.792339
+	},
+	{
+		"nome": "Scienze Umane, Filosofiche<br>e della Formazione",
+		"titolo": "DISUFF",
+		"info": "<div style='font-weight:bold;font-style:italic'>Nome</div><div>Dipartimento di Scienze Umane, Filosofiche e della Formazione </div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>SIBILIO Maurizio</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>089 96 4417</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.unisa.it/dipartimenti/disuf/index </div>",
+		"lat": 40.772013,
+		"lon": 14.792082
+	},
+	{
+		"nome": "Studi Umanistici",
+		"titolo": "DISA-MIS",
+		"info": "<div style='font-weight:bold;font-style:italic;text-align:center;color:red;font-size:x-large;'>DIPSUM</div><br><div style='font-weight:bold;font-style:italic'>Nome</div><div>Dipartimento di Studi Umanistici</div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>GRILLO Rosa Maria</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>089 96 9223</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.unisa.it/dipartimenti/dip_studi_umanistici/index </div>",
+		"lat": 40.771680,
+		"lon": 14.791225
+	},
+	{
+		"nome": "Ingegneria dell'Informazione<br>Elettrica e Matematica Applicata",
+		"titolo": "DIPSUM",
+		"info": "<div style='font-weight:bold;font-style:italic'>Nome</div><div>Dipartimento di Ingegneria dell'Informazione ed Elettrica e Matematica Applicata </div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>VENTO Mario</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>089 96 4210</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.diem.unisa.it </div>",
+		"lat": 40.772565,
+		"lon": 14.790861
+	},
+	{
+		"nome": "Ingegneria Industriale",
+		"titolo": "DIIN",
+		"info": "<div style='font-weight:bold;font-style:italic'>Nome</div><div>Dipartimento di Ingegneria Industriale </div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>RIEMMA Stefano</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>089 96 4095</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.diin.unisa.it </div>",
+		"lat": 40.772773,
+		"lon": 14.790074
+	},
+	{
+		"nome": "Ingegneria Civile",
+		"titolo": "DICIV",
+		"info": "<div style='font-weight:bold;font-style:italic'>Nome</div><div>Dipartimento di Ingegneria Civile </div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>PILUSO Vincenzo</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>089 96 4108</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.diciv.unisa.it </div>",
+		"lat": 40.773439,
+		"lon": 14.790128
+	},
+	{
+		"nome": "Farmacia",
+		"titolo": "DIFARMA",
+		"info": "<div style='font-weight:bold;font-style:italic'>Nome</div><div>Dipartimento di Farmacia</div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>AQUINO Rita Patrizia</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>089 96 9737</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.difarma.unisa.it </div>",
+		"lat": 40.773876,
+		"lon": 14.789322
+	},
+	{
+		"nome": "Informatica",
+		"titolo": "DI",
+		"info": "<div style='font-weight:bold;font-style:italic'>Nome</div><div>Dipartimento di Informatica</div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>DE SANTIS Alfredo</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>+39 089 96 9723</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.unisa.it/dipartimenti/dip_informatica/index </div>",
+		"lat": 40.774226,
+		"lon": 14.789118
+	},
+	{
+		"nome": "Matematica",
+		"titolo": "DIPMAT",
+		"info": "<div style='font-weight:bold;font-style:italic'>Nome</div><div>Dipartimento di Matematica</div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>PATERNOSTER Beatrice</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>+39 089 96 8230</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.unisa.it/dipartimenti/dip_matematica/index </div>",
+		"lat": 40.774419,
+		"lon": 14.789676
+	},
+	{
+		"nome": "Chimica e Biologia",
+		"titolo": "DCB",
+		"info": "<div style='font-weight:bold;font-style:italic'>Nome</div><div>Dipartimento di Chimica e Biologia &#34;Adolfo Zambelli&#34;</div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>NERI Placido</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>+39 089 96 9572</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.unisa.it/dipartimenti/dip_chimica_e_biologia/index </div>",
+		"lat": 40.774569,
+		"lon": 14.788795
+	},
+	{
+		"nome": "Fisica",
+		"titolo": "DF",
+		"info": "<div style='font-weight:bold;font-style:italic'>Nome</div><div>Dipartimento di Fisica &#34;E.Caianiello&#34;</div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>SCARPA Roberto</div><br><div style='font-weight:bold;font-style:italic'>Telefono Direttore</div><div>+39 089 96 8217</div><br><div style='font-weight:bold;font-style:italic'>Web</div><div>www.unisa.it/dipartimenti/dip_fisica/index </div>",
+		"lat": 40.775151,
+		"lon": 14.788332
+	}]
+}

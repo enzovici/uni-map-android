@@ -1,0 +1,58 @@
+{
+	"pathId": "path04",
+	"percorso": "<ul><li> <img src='png/start.png'> &nbsp; 1. Dal punto di incontro di economia attraversare tutto il corridoio di scienze della formazione</li><li> <img src='png/uscita.png'> &nbsp; 2. Uscire dall&#39;edificio dalla porta situata a DESTRA</li><li> <img src='png/tettoia.png'> &nbsp; 3. Proseguire sotto la tettoia</li><li> <img src='png/dritto.png'> &nbsp; 4. Proseguire dritto</li><li> <img src='png/incrocio.png'> &nbsp; 5. Al primo incrocio proseguire verso DESTRA</li><li> <img src='png/salita.png'> &nbsp; 6. Percorrere la salita in direzione terminal</li><li> <img src='png/sx.png'> &nbsp; 7. Svoltare a SINISTRA</li><li> <img src='png/arrivo.png'> &nbsp; 8. Arrivo al terminal</li></ul>",
+	"lista": [{
+		"lat": 40.771504,
+		"lon": 14.792587
+	},
+	{
+		"index": 0,
+		"lat": 40.772130,
+		"lon": 14.792113
+	},
+	{
+		"index": 1,
+		"lat": 40.772240,
+		"lon": 14.792364
+	},
+	{
+		"index": 2,
+		"lat": 40.772353,
+		"lon": 14.792275
+	},
+	{
+		"index": 3,
+		"lat": 40.772582,
+		"lon": 14.792360
+	},
+	{
+		"index": 4,
+		"lat": 40.772809,
+		"lon": 14.792190
+	},
+	{
+		"index": 5
+	},
+	{
+		"index": 6,
+		"lat": 40.773235,
+		"lon": 14.793164
+	},
+	{
+		"lat": 40.773669,
+		"lon": 14.792872
+	},
+	{
+		"lat": 40.773589,
+		"lon": 14.793339
+	},
+	{
+		"lat": 40.773798,
+		"lon": 14.793419
+	},
+	{
+		"index": 7,
+		"lat": 40.773798,
+		"lon": 14.793520
+	}]
+}

@@ -1,0 +1,100 @@
+{
+"pathId": "path22",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Info-Desk di Giurisprudenza</li>   <li> <img src='png/uscita.png'> &nbsp; 2. Uscire all&#39;esterno dalla porta sulla destra</li>    <li> <img src='png/sx.png'> &nbsp; 3. Girare a SINISTRA</li>	<li> <img src='png/dritto.png'> &nbsp; 4. Proseguire lungo tutto il porticato</li>    <li> <img src='png/camminare.png'> &nbsp; 5. Attraversare la rampa</li>	<li> <img src='png/sx.png'> &nbsp; 6. Girare a SINISTRA</li>	<li> <img src='png/dritto.png'> &nbsp; 7. Proseguire lungo tutto il porticato</li>	<li> <img src='png/tettoia.png'> &nbsp; 8. Proseguire sotto la tettoia</li>	<li> <img src='png/dritto.png'> &nbsp; 9. Continuare dritto</li>	<li> <img src='png/incrocio.png'> &nbsp; 10. Al primo incrocio proseguire verso DESTRA</li>	<li> <img src='png/salita.png'> &nbsp; 11. Percorrere la salita in direzione terminal costeggiando la mensa</li>	<li> <img src='png/dx.png'> &nbsp; 12. Girare a DESTRA sul marciapiede</li>	<li> <img src='png/salita.png'> &nbsp; 13. Percorrere la salita che conduce alla mensa</li>	<li> <img src='png/camminare.png'> &nbsp; 14. Costeggiare l&#39;intero perimetro dell&#39;edificio mensa fino al vialetto (in salita) che porta alle residenze</li>	<li> <img src='png/salita.png'> &nbsp; 15. Percorrere il vialetto in salita e varcare il cancello verde</li>	<li> <img src='png/attraversare.png'> &nbsp; 16. Attraversare la strada</li>	<li> <img src='png/dx.png'> &nbsp; 17. Girare a DESTRA</li>	<li> <img src='png/camminare.png'> &nbsp; 18. Proseguire fino all&#39;immediato ingresso delle residenze situato sulla sinistra</li>	<li> <img src='png/entrata.png'> &nbsp; 19. Entrare nelle residenze</li>	<li> <img src='png/camminare.png'> &nbsp; 20. Percorrere il cortile</li>	<li> <img src='png/arrivo.png'> &nbsp; 21. Arrivo alle residenze</li></ul>", 
+"lista": [{
+	"lat": 40.769799,
+	"lon": 14.793540
+},
+{
+	"lat": 40.769860,
+	"lon": 14.793683
+},
+{
+	"lat": 40.770525,
+	"lon": 14.793190
+},
+{
+	"lat": 40.770603,
+	"lon": 14.793382
+},
+{
+	"lat": 40.772201,
+	"lon": 14.792279
+},
+{
+	"lat": 40.772240,
+	"lon": 14.792364
+},
+{
+	"lat": 40.772353,
+	"lon": 14.792275
+},
+{
+	"lat": 40.772582,
+	"lon": 14.792360
+},
+{
+	"lat": 40.772809,
+	"lon": 14.792190
+},
+{
+	"lat": 40.773448,
+	"lon": 14.793680
+},
+{
+	"lat": 40.773197,
+	"lon": 14.793816
+},
+{
+	"lat": 40.773382,
+	"lon": 14.793682
+},
+{
+	"lat": 40.773164,
+	"lon": 14.793171
+},
+
+
+
+{
+	"lat": 40.772897,
+	"lon": 14.793365
+},
+{
+	"lat": 40.772863,
+	"lon": 14.793319
+},
+{
+	"lat": 40.772720,
+	"lon": 14.793267
+},
+{
+	"lat": 40.772681,
+	"lon": 14.793449
+},
+{
+	"lat": 40.772698,
+	"lon": 14.793504
+},
+{
+	"lat": 40.772420,
+	"lon": 14.793703
+},
+
+{
+	"lat": 40.772399,
+	"lon": 14.794174
+},
+{
+	"lat": 40.772104,
+	"lon": 14.794335
+},
+{
+	"lat": 40.772228,
+	"lon": 14.794793
+},
+{
+	"lat": 40.771846,
+	"lon": 14.795098
+}
+]}

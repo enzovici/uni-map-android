@@ -1,0 +1,86 @@
+{
+"pathId": "path12",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Info-Desk di Giurisprudenza</li><li> <img src='png/uscita.png'> &nbsp; 2. Uscire all&#39;esterno dalla porta sulla destra</li><li> <img src='png/sx.png'> &nbsp; 3. Girare a SINISTRA</li><li> <img src='png/dritto.png'> &nbsp; 4. Proseguire lungo tutto il porticato</li><li> <img src='png/camminare.png'> &nbsp; 5. Attraversare la rampa</li><li> <img src='png/sx.png'> &nbsp; 6. Girare a SINISTRA</li><li> <img src='png/dritto.png'> &nbsp; 7. Proseguire lungo tutto il porticato</li><li> <img src='png/tettoia.png'> &nbsp; 8. Proseguire sotto la tettoia</li><li> <img src='png/dritto.png'> &nbsp; 9. Continuare dritto</li><li> <img src='png/incrocio.png'> &nbsp; 10. Al primo incrocio proseguire verso DESTRA</li><li> <img src='png/salita.png'> &nbsp; 11. Percorrere la salita in direzione terminal costeggiando la mensa</li><li> <img src='png/dx.png'> &nbsp; 12. Girare a DESTRA sul marciapiede</li><li> <img src='png/salita.png'> &nbsp; 13. Percorrere la salita che conduce alla mensa</li><li> <img src='png/camminare.png'> &nbsp; 14. Costeggiare il perimetro dell&#39;edificio mensa fino all&#39;ingresso principale a sinistra</li><li> <img src='png/arrivo.png'> &nbsp; 15. Arrivo alla mensa</li></ul>", 
+"lista": [{
+	"index": 0,
+	"lat": 40.769799,
+	"lon": 14.793540
+},
+{
+	"index": 1,
+	"lat": 40.769860,
+	"lon": 14.793683
+},
+{
+	"index": 2
+},
+{
+	"index": 3,
+	"lat": 40.770525,
+	"lon": 14.793190
+},
+{
+	"index": 4,
+	"lat": 40.770603,
+	"lon": 14.793382
+},
+{
+	"index": 5
+},
+{
+	"index": 6,
+	"lat": 40.772201,
+	"lon": 14.792279
+},
+{
+	"lat": 40.772240,
+	"lon": 14.792364
+},
+{
+	"index": 7,
+	"lat": 40.772353,
+	"lon": 14.792275
+},
+{
+	"index": 8,
+	"lat": 40.772582,
+	"lon": 14.792360
+},
+{
+	"index": 9,
+	"lat": 40.772809,
+	"lon": 14.792190
+},
+{
+	"index": 10,
+	"lat": 40.773448,
+	"lon": 14.793680
+},
+{
+	"index": 11
+},
+{
+	"index": 12,
+	"lat": 40.773197,
+	"lon": 14.793816
+},
+{
+	"lat": 40.773382,
+	"lon": 14.793682
+},
+{
+	"lat": 40.773164,
+	"lon": 14.793171
+},
+{
+	"index": 13,
+	"lat":40.772827,
+	"lon":14.793413
+},
+{
+	"index": 14,
+	"lat":40.772867,
+	"lon":14.793504
+}
+
+]}

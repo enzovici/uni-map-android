@@ -1,0 +1,52 @@
+{
+"pathId": "path33",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Laboratorio H</li> <li> <img src='png/dx.png'> &nbsp; 2. Girare a DESTRA e percorrere il corridoio finchè non si raggiunge l&#39;uscita dal rettorato</li><li> <img src='png/uscita.png'> &nbsp; 3. Uscire dal Rettorato</li><li> <img src='png/dx.png'> &nbsp; 4. Girare a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 5. Dirigersi fino alla fine del viale</li><li> <img src='png/sx.png'> &nbsp; 6. Girare a SINISTRA</li><li> <img src='png/salita.png'> &nbsp; 7. Proseguire fino alla rampa</li><li> <img src='png/camminare.png'> &nbsp; 8. Attraversare la piazza </li><li> <img src='png/sx.png'> &nbsp; 9. Svoltare a sinistra prima della fontana</li><li> <img src='png/discesa.png'> &nbsp; 10. Percorrere la discesa</li><li> <img src='png/incrocio.png'> &nbsp; 11. Arrivare all&#39;incrocio</li><li> <img src='png/attraversare.png'> &nbsp; 12. Attraversare la strada</li><li> <img src='png/discesa.png'> &nbsp; 13. Percorrere la discesa</li><li> <img src='png/incrocio.png'> &nbsp; 14. Arrivare all&#39;incrocio</li><li> <img src='png/dx.png'> &nbsp; 15. Girare a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 16. Proseguire per <span>50m</span></li><li> <img src='png/attraversare.png'> &nbsp; 17. Attraversare la strada in corrispondenza delle strisce pedonali</li><li> <img src='png/camminare.png'> &nbsp; 18. Proseguire per il selciato</li><li> <img src='png/arrivo.png'> &nbsp; 19. Arrivo al CUS-Salerno</li></ul>", 
+"lista": [{
+	"lat": 40.768944,
+	"lon": 14.791878
+},
+{
+	"lat": 40.769069,
+	"lon": 14.791780
+},
+{
+	"lat": 40.769461,
+	"lon": 14.792775
+},
+{
+	"lat": 40.770073,
+	"lon": 14.792264
+},
+{
+	"lat": 40.770392,
+	"lon": 14.792156
+},
+{
+	"lat": 40.770833,
+	"lon": 14.791806
+},
+{
+	"lat": 40.770591,
+	"lon": 14.791227
+},
+{
+	"lat": 40.770349,
+	"lon": 14.790534
+},
+{
+	"lat": 40.769583,
+	"lon": 14.788693
+},
+{
+	"lat": 40.769970,
+	"lon": 14.788365
+},
+{
+	"lat": 40.770550,
+	"lon": 14.787958
+},
+{
+	"lat": 40.770528,
+	"lon": 14.787344
+}
+]}

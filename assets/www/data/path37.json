@@ -1,0 +1,89 @@
+{
+"pathId": "path37",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Laboratorio H</li><li> <img src='png/dx.png'> &nbsp; 2. Girare a DESTRA e percorrere il corridoio finchè non si raggiunge l&#39;uscita dal rettorato</li><li> <img src='png/uscita.png'> &nbsp; 3. Uscire dal Rettorato</li><li> <img src='png/dx.png'> &nbsp; 4. Girare a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 5. Dirigersi fino alla fine del viale</li><li> <img src='png/sx.png'> &nbsp; 6. Girare a SINISTRA</li><li> <img src='png/dritto.png'> &nbsp; 7. Proseguire dritto</li><li> <img src='png/dx.png'> &nbsp; 8. Svoltare alla prima a DESTRA</li><li> <img src='png/dritto.png'> &nbsp; 9. Proseguire dritto</li><li> <img src='png/salita.png'> &nbsp; 10. Imboccare la rampa a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 11. Costeggiare l&#39;edificio verso destra fino all&#39;ascensore</li><li> <img src='png/ascensore.png'> &nbsp; 12. Prendere l&#39;ascensore (Tasto: 1)</li><li> <img src='png/entrata.png'> &nbsp; 13. Entrare nella Ex Facoltà di Giurisprudenza attraverso l&#39;ingresso situato sulla DESTRA</li><li> <img src='png/dritto.png'> &nbsp; 14. Proseguire dritto</li><li> <img src='png/uscita.png'> &nbsp; 15. Uscire dall&#39;Ex Facoltà di Giurisprudenza</li> <li> <img src='png/sx.png'> &nbsp; 16. Girare a SINISTRA</li><li> <img src='png/dritto.png'> &nbsp; 17. Proseguire dritto</li><li> <img src='png/entrata.png'> &nbsp; 18. Entrare nella Facoltà di Giurisprudenza</li><li> <img src='png/arrivo.png'> &nbsp; 19. Sulla destra si trova il punto di incontro</li></ul>", 
+"lista": [{
+	"index": 0,
+	"lat": 40.768944,
+	"lon": 14.791878
+},
+{
+	"index": 1,
+	"lat": 40.769069,
+	"lon": 14.791780
+},
+{
+	"index": 2
+},
+{
+	"index": 3
+},
+{
+	"index": 4,
+	"lat": 40.769461,
+	"lon": 14.792775
+},
+{
+	"index": 5
+},
+{
+	"index": 6,
+	"lat": 40.769669,
+	"lon": 14.792624
+},
+{
+	"index": 7
+},
+{
+	"index": 8,
+	"lat": 40.769815,
+	"lon": 14.792996
+},
+{
+	"index": 9,
+	"lat": 40.769587,
+	"lon": 14.793226
+},
+{
+	"lat": 40.769517,
+	"lon": 14.793037
+},
+{
+	"index": 10,
+	"lat": 40.769387,
+	"lon": 14.793133
+},
+{
+	"index": 11
+},
+{
+	"index": 12,
+	"lat": 40.769269,
+	"lon": 14.793289
+},
+{
+	"index": 13,
+	"lat": 40.769360,
+	"lon": 14.793494
+},
+{
+	"index": 14
+},
+{
+	"index": 15
+},
+{
+	"index": 16,
+	"lat": 40.769593,
+	"lon": 14.793412
+},
+{
+	"index": 17,
+	"lat": 40.769671,
+	"lon": 14.793596
+},
+{
+	"index": 18,
+	"lat": 40.769671,
+	"lon": 14.793596
+}
+]}

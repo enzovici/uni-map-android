@@ -1,0 +1,105 @@
+{
+"pathId": "path18",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Dal punto di incontro di economia attraversare tutto il corridoio di scienze della formazione</li><li> <img src='png/uscita.png'> &nbsp; 2. Uscire dall&#39;edificio dalla porta situata a DESTRA</li><li> <img src='png/tettoia.png'> &nbsp; 3. Proseguire sotto la tettoia</li><li> <img src='png/dritto.png'> &nbsp; 4. Proseguire dritto</li><li> <img src='png/incrocio.png'> &nbsp; 5. Al primo incrocio proseguire verso DESTRA</li><li> <img src='png/salita.png'> &nbsp; 6. Percorrere la salita in direzione terminal costeggiando la mensa</li><li> <img src='png/dx.png'> &nbsp; 7. Girare a DESTRA sul marciapiede</li><li> <img src='png/salita.png'> &nbsp; 8. Percorrere la salita che conduce alla mensa</li><li> <img src='png/camminare.png'> &nbsp; 9. Costeggiare l&#39;intero perimetro dell&#39;edificio mensa fino al vialetto (in salita) che porta alle residenze</li><li> <img src='png/salita.png'> &nbsp; 10. Percorrere il vialetto in salita e varcare il cancello verde</li><li> <img src='png/attraversare.png'> &nbsp; 11. Attraversare la strada</li><li> <img src='png/dx.png'> &nbsp; 12. Girare a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 13. Proseguire fino all&#39;immediato ingresso delle residenze situato sulla sinistra</li><li> <img src='png/entrata.png'> &nbsp; 14. Entrare nelle residenze</li><li> <img src='png/camminare.png'> &nbsp; 15. Percorrere il cortile</li><li> <img src='png/arrivo.png'> &nbsp; 16. Arrivo alle residenze</li></ul>", 
+"lista": [{
+	"lat": 40.771504,
+	"lon": 14.792587
+},
+{
+	"index": 0,
+	"lat": 40.772130,
+	"lon": 14.792113
+},
+{
+	"index": 1,
+	"lat": 40.772240,
+	"lon": 14.792364
+},
+{
+	"index": 2,
+	"lat": 40.772353,
+	"lon": 14.792275
+},
+{
+	"index": 3,
+	"lat": 40.772582,
+	"lon": 14.792360
+},
+{
+	"index": 4,
+	"lat": 40.772809,
+	"lon": 14.792190
+},
+{
+	"index": 5,
+	"lat": 40.773448,
+	"lon": 14.793680
+},
+{
+	"index": 6
+},
+{
+	"index": 7,
+	"lat": 40.773197,
+	"lon": 14.793816
+},
+{
+	"lat": 40.773382,
+	"lon": 14.793682
+},
+{
+	"lat": 40.773164,
+	"lon": 14.793171
+},
+{
+	"lat": 40.772897,
+	"lon": 14.793365
+},
+
+{
+	"lat": 40.772709,
+	"lon": 14.793283
+},
+
+{
+	"lat": 40.772650,
+	"lon": 14.793543
+},
+{
+	"index": 8,
+	"lat": 40.772350,
+	"lon": 14.793751
+},
+{
+	"index": 9,
+	"lat": 40.772399,
+	"lon": 14.794174
+
+},
+{
+	"index": 10
+},
+{
+	"index": 11
+},
+{
+	"index": 12,
+	"lat": 40.772104,
+	"lon": 14.794335
+},
+{
+	"index": 13,
+	"lat": 40.772228,
+	"lon": 14.794793
+},
+{
+	"index": 14,
+	"lat": 40.771846,
+	"lon": 14.795098
+},
+{
+	"index": 15,
+	"lat": 40.771846,
+	"lon": 14.795098
+}
+]}

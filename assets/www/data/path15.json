@@ -1,0 +1,49 @@
+{
+"pathId": "path15",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Dalla mensa prendere l&#39;uscita (frontale al terminal) e scendere lungo il vialetto</li><li> <img src='png/sx.png'> &nbsp; 2. Girare a SINISTRA</li><li> <img src='png/discesa.png'> &nbsp; 3. Percorrere la discesa in direzione ingegneria</li><li> <img src='png/entrata.png'> &nbsp; 4. l&#39;ingresso di ingegneria lo troveremo di fronte</li><li> <img src='png/arrivo.png'> &nbsp; 5. Arrivo al punto di incontro di Ingegneria (sopra il bar)</li></ul>", 
+"lista": [{
+	"lat": 40.772867,
+	"lon": 14.793504
+},
+{
+	"lat": 40.772827,
+	"lon": 14.793413
+},
+{
+	"lat": 40.773164,
+	"lon": 14.793171
+},
+{
+	"lat": 40.773382,
+	"lon": 14.793682
+},
+{
+	"index": 0,
+	"lat": 40.773197,
+	"lon": 14.793816
+},
+{
+	"index": 1,
+	"lat": 40.773448,
+	"lon": 14.793680
+},
+{
+	"index": 2,
+	"lat": 40.772538,
+	"lon": 14.791515
+},
+{
+	"lat": 40.772367,
+	"lon": 14.791447
+},
+{	
+	"index": 3,
+	"lat": 40.772287,
+	"lon": 14.791237
+},
+{
+	"index": 4,
+	"lat": 40.772287,
+	"lon": 14.791237
+}
+]}

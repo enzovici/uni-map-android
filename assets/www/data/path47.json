@@ -1,0 +1,19 @@
+{
+	"pathId": "path47",
+	"percorso": "<ul><li><img src='png/start.png'> &nbsp; 1. Uscire dall'edificio F</li><li> <img src='png/dritto.png'> &nbsp; 2. Proseguire dritto per <span>50m</span> circa in direzione dell'edificio con sigla F3</li><li> <img src='png/entrata.png'> &nbsp; 3. Entrare nell'edificio tramite la porta situata sulla SINISTRA</li></ul>",
+	"lista": [{
+		"index": 0,
+		"lat": 40.774702,
+		"lon": 14.789752
+	},
+	{
+		"index": 1,
+		"lat": 40.775235,
+		"lon": 14.789318
+	},
+	{
+		"index": 2,
+		"lat": 40.775217,
+		"lon": 14.789262
+	}]
+}

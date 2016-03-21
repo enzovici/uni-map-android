@@ -1,0 +1,76 @@
+{
+"pathId": "path22",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Dal punto di incontro uscire dalla porta principale</li><li> <img src='png/dritto.png'> &nbsp; 2. Continuare dritto</li><li> <img src='png/salita.png'> &nbsp; 3. Percorrere la salita in direzione terminal costeggiando la mensa</li><li> <img src='png/dx.png'> &nbsp; 4. Girare a DESTRA sul marciapiede</li><li> <img src='png/salita.png'> &nbsp; 5. Percorrere la salita che conduce alla mensa</li><li> <img src='png/camminare.png'> &nbsp; 6. Costeggiare l&#39;intero perimetro dell&#39;edificio mensa fino al vialetto (in salita) che porta alle residenze</li><li> <img src='png/salita.png'> &nbsp; 7. Percorrere il vialetto in salita e varcare il cancello verde</li><li> <img src='png/attraversare.png'> &nbsp; 8. Attraversare la strada</li><li> <img src='png/dx.png'> &nbsp; 9. Girare a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 10. Proseguire fino all&#39;immediato ingresso delle residenze situato sulla sinistra</li><li> <img src='png/entrata.png'> &nbsp; 11. Entrare nelle residenze</li><li> <img src='png/camminare.png'> &nbsp; 12. Percorrere il cortile</li><li> <img src='png/arrivo.png'> &nbsp; 13. Arrivo alle residenze</li></ul>", 
+"lista": [{
+	"lat": 40.772287,
+	"lon": 14.791237
+},
+{
+	"lat": 40.772367,
+	"lon": 14.791447
+},
+{
+	"lat": 40.772538,
+	"lon": 14.791515
+},
+{
+	"lat": 40.773448,
+	"lon": 14.793680
+},
+{
+	"lat": 40.773197,
+	"lon": 14.793816
+},
+{
+	"lat": 40.773382,
+	"lon": 14.793682
+},
+{
+	"lat": 40.773164,
+	"lon": 14.793171
+},
+
+
+
+{
+	"lat": 40.772897,
+	"lon": 14.793365
+},
+{
+	"lat": 40.772863,
+	"lon": 14.793319
+},
+{
+	"lat": 40.772720,
+	"lon": 14.793267
+},
+{
+	"lat": 40.772681,
+	"lon": 14.793449
+},
+{
+	"lat": 40.772698,
+	"lon": 14.793504
+},
+{
+	"lat": 40.772420,
+	"lon": 14.793703
+},
+
+{
+	"lat": 40.772399,
+	"lon": 14.794174
+},
+{
+	"lat": 40.772104,
+	"lon": 14.794335
+},
+{
+	"lat": 40.772228,
+	"lon": 14.794793
+},
+{
+	"lat": 40.771846,
+	"lon": 14.795098
+}
+]}

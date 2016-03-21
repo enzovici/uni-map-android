@@ -1,0 +1,1014 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_95 (Oracle Corporation)
+
+Name: assets/www/data/path34.json
+SHA1-Digest: w6y03zf2dmFZ8CJoBMqUHLkgVhs=
+
+Name: assets/www/data/old/path18.json
+SHA1-Digest: SsndYg10Rh+obaiHbwBTxVzvvV0=
+
+Name: res/xml/config.xml
+SHA1-Digest: dhjW5ertQNJa5tXeIa6QmjUZmTM=
+
+Name: assets/www/png/map/mappa_17_70919_49254.png
+SHA1-Digest: JNSsPhWDF5WkDl+tm4XfHr+eaTM=
+
+Name: assets/www/fotoInterne/65.png
+SHA1-Digest: OY49kIzgawyKE3uxDGg7JqNm704=
+
+Name: assets/www/fotoInterne/64.png
+SHA1-Digest: Fbzwyn4FnJLdbbil7f1KCGR/+D0=
+
+Name: assets/www/data/old/path21.json
+SHA1-Digest: yXrpaAFEfhG2iHFFBeY8Bo98Jks=
+
+Name: assets/www/data/old/dipartimenti.json
+SHA1-Digest: ZeAW/uOw97StCoQgY94ESPyoMBw=
+
+Name: assets/www/fotoInterne/62.png
+SHA1-Digest: Luq0ub1sA98vF54qNtlQNaZvt64=
+
+Name: assets/www/png/fountain.png
+SHA1-Digest: 4q21oJnOeeIDQHpN0xnVA8E2kgY=
+
+Name: assets/www/fotoInterne/28.png
+SHA1-Digest: P7h6FCH7AQqBb0ewsAr0NWxYHdo=
+
+Name: assets/www/data/old/path13.json
+SHA1-Digest: O4/RcwOZy954+3jaDkEahZM5OYc=
+
+Name: assets/www/data/old/path31.json
+SHA1-Digest: 7dninikmFcbq6M4OTak5z9NcTUs=
+
+Name: assets/www/fotoInterne/31.png
+SHA1-Digest: sALQ+JGH881ExXzLHVExmSSoL/4=
+
+Name: assets/www/svg/dipartimentiIcon.svg
+SHA1-Digest: m42T0kK6F5htGHrsAldEmMIK7hs=
+
+Name: assets/www/data/old/path37.json
+SHA1-Digest: ZJf+GvNcwIQLiIBb76RBCcnvZgQ=
+
+Name: assets/www/png/sx.png
+SHA1-Digest: QCJ+d6x/5uPpQI8QBM3yqabu0B4=
+
+Name: assets/www/png/map/mappa_16_35459_24626.png
+SHA1-Digest: H2BcVJ66n7HMFmL+mCTGa27NN5c=
+
+Name: assets/www/data/old/path28.json
+SHA1-Digest: q3rcmckhvOQIx4vx2EKu2IQFUPs=
+
+Name: assets/www/svg/sportMarker.svg
+SHA1-Digest: JImctd5x4kkVG1lBThj7R9hIoFc=
+
+Name: assets/www/data/old/path41.json
+SHA1-Digest: 2QOEF1Lnahzdt7DU592vKxG+CHA=
+
+Name: assets/www/svg/finish.svg
+SHA1-Digest: RkUKghEggggRNBsk+BKXMdkRsKY=
+
+Name: assets/www/png/map/mappa_17_70923_49252.png
+SHA1-Digest: l+nm0Dc8/euIdRkDDhivpsZVu+o=
+
+Name: assets/www/png/logo.png
+SHA1-Digest: t0bpeWT5l9V5XN+gX5x16rjiYDM=
+
+Name: assets/www/data/old/path01.json
+SHA1-Digest: 36/Osk70Vgnfpbpfl56Al1KR08M=
+
+Name: assets/www/data/path42.json
+SHA1-Digest: h00k9VaQte+qn2CuuZNDlANyTms=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: kMMwTcw8qqdCFBtdVIf0YuP6OpU=
+
+Name: assets/www/svg/frecciaSx.svg
+SHA1-Digest: hkKznioYO7Nke6ToSxXnXj6kLuM=
+
+Name: assets/www/svg/xMarker.svg
+SHA1-Digest: 9OltIFRAC0hqLyOTOcLUj8LNWXQ=
+
+Name: assets/www/png/map/mappa_17_70923_49250.png
+SHA1-Digest: oYB97VhIpxjuUXAjWSol3925S3c=
+
+Name: assets/www/fotoInterne/23.png
+SHA1-Digest: Ju/IYWueUt2yXddkfBEAr65bCpk=
+
+Name: assets/www/png/map/mappa_16_35461_24624.png
+SHA1-Digest: bwoe33aYEN0UIh331pXUFH4TCSg=
+
+Name: assets/www/png/map/mappa_15_17729_12313.png
+SHA1-Digest: Z2CrhZMI/z5FfvfrYyHn7wpcTX4=
+
+Name: assets/www/cordova.js
+SHA1-Digest: 09ZWDrQSJMRayDv25DH7S5m8oNI=
+
+Name: assets/www/fotoInterne/18.png
+SHA1-Digest: KkrgcPED6X6/Ll9kJCmDD3x3aFE=
+
+Name: assets/www/png/rightarrow.gif
+SHA1-Digest: jyF/TaPdeWO03dtGSdmiK9sQcsY=
+
+Name: assets/www/data/path26.json
+SHA1-Digest: fl43QhyZePnQQDx1beTpiGmqmVA=
+
+Name: assets/www/svg/parcheggiIcon.svg
+SHA1-Digest: KkMRYexWltePNeik2YVybGNyz6c=
+
+Name: assets/www/png/map/mappa_16_35461_24625.png
+SHA1-Digest: j5/cnsoF0G2kJgnKEJjPbNM8trI=
+
+Name: assets/www/data/old/path09.json
+SHA1-Digest: zEnP8TahNm9D5AHYGY7r/urx1Sg=
+
+Name: assets/www/png/salita.png
+SHA1-Digest: dwMmo2C+Vm7LhvOP39oEieDC9Xo=
+
+Name: assets/www/png/arrowDown.png
+SHA1-Digest: YQN/uRyJ2Fgw8NBwdBg7OtEgrIs=
+
+Name: assets/www/data/parcheggi.json
+SHA1-Digest: jJkcpQ2po0d4S0TD7sW1uPIFLT8=
+
+Name: assets/www/png/guida/7.gif
+SHA1-Digest: vm1AU4i5jItgxgKtUbIi3la+Z+o=
+
+Name: assets/www/data/old/path17.json
+SHA1-Digest: Pd/E/GsFLkjprts2G6+ddvm70qw=
+
+Name: assets/www/data/path30.json
+SHA1-Digest: wyGEwm8ZKlXK+cl4YKJ1GnCYFT4=
+
+Name: assets/www/data/path27.json
+SHA1-Digest: vamNGQTtb033uJDL1IM6+mGxYdY=
+
+Name: assets/www/png/guida/6.gif
+SHA1-Digest: 9wiPU2BlqXAJ1taqpdE1BquDtzU=
+
+Name: assets/www/data/path24.json
+SHA1-Digest: ljsYsVqvk++EoxqYmJrqjTuFgj8=
+
+Name: assets/www/fotoInterne/35.png
+SHA1-Digest: PWrZxfJtg2MzOSRXTbPagU/vdug=
+
+Name: assets/www/svg/2.svg
+SHA1-Digest: W2kEwh30i3tJGwtobece1egQueQ=
+
+Name: assets/www/data/old/path38.json
+SHA1-Digest: 8zr6hdbt0oTxGtJp/ZTthGRl7Yo=
+
+Name: assets/www/svg/start.svg
+SHA1-Digest: n59HdZMvBNWOH3yij+DjzyoDulc=
+
+Name: assets/www/png/map/mappa_17_70922_49249.png
+SHA1-Digest: PXc88xMQQTuyPIYXaR4YBjpu8Yo=
+
+Name: assets/www/png/guida/10.gif
+SHA1-Digest: OwQdFwJJPvnenyLUCKs8sx80Eig=
+
+Name: assets/www/data/path11.json
+SHA1-Digest: 2Ybx4IPWcrVZ6SF2o20ceOprvAc=
+
+Name: assets/www/data/old/path42.json
+SHA1-Digest: rulKYsCoB9Zcxyi21VfrUftwT0o=
+
+Name: assets/www/data/path28.json
+SHA1-Digest: RMztl/pkSD7lJ3cCfZ/6+hM0H0A=
+
+Name: assets/www/fotoInterne/21.png
+SHA1-Digest: KkrgcPED6X6/Ll9kJCmDD3x3aFE=
+
+Name: assets/www/data/bar.json
+SHA1-Digest: +TIYAmtPd1OckGnbnS9IHWEkmMM=
+
+Name: assets/www/fotoInterne/45.png
+SHA1-Digest: Lnib2aeZcSaZk+kg7mouTdJWGpE=
+
+Name: assets/www/fotoInterne/13.png
+SHA1-Digest: gz3W94cYn5kl++fWiwvJW5FOQ80=
+
+Name: assets/www/plugins/de.appplant.cordova.plugin.email-composer/www
+ /email_composer.js
+SHA1-Digest: QaUatD45iSGu+cccnh99ir7Rm1M=
+
+Name: assets/www/fotoInterne/6.png
+SHA1-Digest: bWQXdQ0qaqXB1f0e6qV4Yy9nUW0=
+
+Name: assets/www/png/guida/5.1.gif
+SHA1-Digest: 34CrAO6nnzLcnwjkoUbH2VWapTk=
+
+Name: assets/www/data/old/path08.json
+SHA1-Digest: BgfsyfvvGYYEQpisB3TD1FNQR4g=
+
+Name: assets/www/data/path12.json
+SHA1-Digest: hQHMHbhhPVZgFqkeOBc15hIc1wg=
+
+Name: assets/www/data/path46.json
+SHA1-Digest: 7MqMs5R2b8k0RMozCXEh4/6Gxgw=
+
+Name: assets/www/data/path22.json
+SHA1-Digest: AWvDOljgv5DmQOPHXgGJ3uQXUZ0=
+
+Name: assets/www/png/dot.png
+SHA1-Digest: APmHqnOc7nPgUrjRaw0UuCG7Ef0=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: eM/YqCBlADK+U0D+vHew7mbo10A=
+
+Name: assets/www/fotoInterne/17.png
+SHA1-Digest: 8o6WtJk+Jx3vn1PJQjW9DQAESjM=
+
+Name: assets/www/fotoInterne/61.png
+SHA1-Digest: B3ndx6d07oI/F2NOm06e+3WDpN8=
+
+Name: assets/www/png/start.png
+SHA1-Digest: W7avegEydXLMThQgYrKesNVdyZg=
+
+Name: assets/www/svg/barIcon.svg
+SHA1-Digest: bWHCKT0vPqnXBRnSUMqfNHlUi6w=
+
+Name: assets/www/png/map/mappa_17_70919_49250.png
+SHA1-Digest: hoZxYJyAHYTV33rGBjAHdS4C8Go=
+
+Name: assets/www/data/old/uffici.json
+SHA1-Digest: +cdBUywAztMYPNo7JoR7rZKmAKY=
+
+Name: assets/www/fotoInterne/37.png
+SHA1-Digest: VlkggN6AUuY7BmZ0GVFgrdVHKB0=
+
+Name: assets/www/fotoInterne/7.png
+SHA1-Digest: U963KJ5JBHleOmvexutrP+e5Fe0=
+
+Name: assets/www/png/incrocio.png
+SHA1-Digest: 2vrAU5FMV58dilnyKLNM6Mm9fvU=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: kMMwTcw8qqdCFBtdVIf0YuP6OpU=
+
+Name: assets/www/data/path29.json
+SHA1-Digest: CCLyyr7hxCpV1tX/iDY2SGOsr0U=
+
+Name: assets/www/fotoInterne/5.png
+SHA1-Digest: 9KDJ7w9gJDZwP4oRn3AEIAArHUQ=
+
+Name: assets/www/png/entrata.png
+SHA1-Digest: gLw6m+ziEKPuKqWCQVpHup7sVjU=
+
+Name: assets/www/fotoInterne/29.png
+SHA1-Digest: MnGuFOhGENjsxezLb4XTbNut/BQ=
+
+Name: assets/www/png/map/mappa_16_35459_24624.png
+SHA1-Digest: 6anktEGvGX6gvJ/N0o9Iy5VkE7Q=
+
+Name: assets/www/data/path52.json
+SHA1-Digest: lToj79dR4ioq7bHHD9FzKhNQRIY=
+
+Name: assets/www/data/path14.json
+SHA1-Digest: znnNYXyZhL4N+oZH4vwNKi8Ni/Y=
+
+Name: assets/www/fotoInterne/40.png
+SHA1-Digest: NsFzNOBCIvVsOrvrwGXG3SaQL2k=
+
+Name: assets/www/svg/barMarker.svg
+SHA1-Digest: C4Q/TNJ0ae1mEQJmS9atkDNli5I=
+
+Name: assets/www/fotoInterne/26.png
+SHA1-Digest: Ex8P75sLsSNtvAxSojV3E+Em4o4=
+
+Name: assets/www/fotoInterne/52.png
+SHA1-Digest: svodaA17UF8BDEOVG2pm9xQmems=
+
+Name: assets/www/fotoInterne/50.png
+SHA1-Digest: TobcAT5Loanh/BGbQqINESsVuZw=
+
+Name: assets/www/svg/4.svg
+SHA1-Digest: zRXgXRSd0+QdyRzFrT7U7wC8ufI=
+
+Name: assets/www/data/old/path40.json
+SHA1-Digest: mX7fMILT9pDKlx+pL8fqSubIPyw=
+
+Name: assets/www/png/map/mappa_16_35460_24626.png
+SHA1-Digest: dHMLwn6YrDkz4OUW2WOnuoLvCmw=
+
+Name: assets/www/png/map/mappa_16_35460_24625.png
+SHA1-Digest: kdBTwQ7pnlwWEoBS9IOvrwViJZc=
+
+Name: assets/www/fotoInterne/8.png
+SHA1-Digest: 4U+AmVc9Vc3dwfa6Wa6hvaGQ6Yw=
+
+Name: assets/www/png/map/mappa_16_35460_24627.png
+SHA1-Digest: 6l4ADonedlxAGGo9hCLOiLD35ig=
+
+Name: assets/www/png/guida/4.gif
+SHA1-Digest: xcS/zLI07kW8sZW9cTGGG1F4rHs=
+
+Name: assets/www/png/map/mappa_17_70919_49253.png
+SHA1-Digest: mZOWU31Ja1KUDxVncSDTygHszj8=
+
+Name: assets/www/plugins/cordova-plugin-globalization/www/globalizatio
+ n.js
+SHA1-Digest: GGny6dbvy+LjtH4Fq81C1AVXfF0=
+
+Name: assets/www/data/old/path26.json
+SHA1-Digest: fxfbxLyGO/U0vyXxKdTsRoLxrsY=
+
+Name: assets/www/png/finish.png
+SHA1-Digest: ixWwVj3yePQbS4cECx3bHFGeWKc=
+
+Name: assets/www/svg/openDoor.svg
+SHA1-Digest: a/HjhQDduCQ+JL41wfc+ntxzlpw=
+
+Name: assets/www/png/map/mappa_17_70921_49252.png
+SHA1-Digest: eM1MsjXgzOOyazEBb+k4g0pjlbw=
+
+Name: assets/www/png/contatti.png
+SHA1-Digest: 9BhWMpTgoHSDr4Chwr29SiXpclI=
+
+Name: assets/www/png/arrivo.png
+SHA1-Digest: ixWwVj3yePQbS4cECx3bHFGeWKc=
+
+Name: assets/www/plugins/cordova-plugin-whitelist/whitelist.js
+SHA1-Digest: LhPJehMZoBACH/WKPQVj+FjkRRI=
+
+Name: assets/www/data/path10.json
+SHA1-Digest: tbhXdhVZLZbFIuFiBBpjS/FSRrU=
+
+Name: assets/www/data/path32.json
+SHA1-Digest: FT2Sr9hacH+V8kb6FgQbou/ke64=
+
+Name: assets/www/png/chiSiamo.png
+SHA1-Digest: vlMfJnVmmC42ttQ84+nDxdDC2Ok=
+
+Name: assets/www/fotoInterne/33.png
+SHA1-Digest: FO5PrdIg1NY9a9FMViUImmP8py0=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: kMMwTcw8qqdCFBtdVIf0YuP6OpU=
+
+Name: assets/www/png/libreria.png
+SHA1-Digest: E0qgBteJNTqy317iGXOvTYXVqZs=
+
+Name: assets/www/fotoInterne/25.png
+SHA1-Digest: UslT8BTRx1fZVL8kgal4noXkerc=
+
+Name: assets/www/png/camminare.png
+SHA1-Digest: RYshODO/C36bNu+7dsHzbcRkSrs=
+
+Name: assets/www/data/path13.json
+SHA1-Digest: M18Ig+VPXYv8zuxRzcE4GES0fys=
+
+Name: assets/www/data/path51.json
+SHA1-Digest: B3FxiM0997VyEZbLaXmdKxzB8Ws=
+
+Name: assets/www/fotoInterne/27.png
+SHA1-Digest: P7h6FCH7AQqBb0ewsAr0NWxYHdo=
+
+Name: assets/www/fotoInterne/48.png
+SHA1-Digest: QpwJ1msGBCuaHVuf1Euq8Lc/2h4=
+
+Name: assets/www/png/map/mappa_17_70921_49250.png
+SHA1-Digest: fzF4BXIpV/jyhyqnUuBLsvtFPc4=
+
+Name: assets/www/svg/locate.svg
+SHA1-Digest: g0IvPcxInzd5UU5jOAG7z6lDvrk=
+
+Name: assets/www/svg/3.svg
+SHA1-Digest: cUNDOFn2p1VVPtqdS7/Lm1EDrQ4=
+
+Name: assets/www/data/path21.json
+SHA1-Digest: PptemXSNpCZcwMU8+KLyG0fKVjI=
+
+Name: assets/www/data/old/path22.json
+SHA1-Digest: YWlk0Gi0Hw/+F0yP7CqDbA7m6uU=
+
+Name: assets/www/fotoInterne/30.png
+SHA1-Digest: QjDthJiQfL4d6WZ8Nt6ittDvGc8=
+
+Name: assets/www/data/path44.json
+SHA1-Digest: b8UjWqVgrr55rZtZD5lcx6UOnoM=
+
+Name: assets/www/data/servizi.json
+SHA1-Digest: AmljioRreEJ4pQK8/Fj1sVIPnVQ=
+
+Name: assets/www/data/old/path19.json
+SHA1-Digest: XpFv2FiyPEPvpg/ZntLCSiSDl98=
+
+Name: assets/www/data/old/path06.json
+SHA1-Digest: utNqZR0lS5N2ceEJuBaaR4j5sE4=
+
+Name: assets/www/data/path48.json
+SHA1-Digest: hC+ICNcIKKiJ8aPiYBuR+UPp2HE=
+
+Name: assets/www/png/map/mappa_16_35461_24627.png
+SHA1-Digest: Ky0X9PWyTza6GKI2cQT/ABRr20o=
+
+Name: assets/www/data/path53.json
+SHA1-Digest: SiAvZ4POrJKyp7h37aciMhRH2FY=
+
+Name: assets/www/png/fontana.png
+SHA1-Digest: rw1Ya6FRyteFU0fbjFdRwXzVUGE=
+
+Name: assets/www/plugins/cordova-plugin-geolocation/www/PositionError.
+ js
+SHA1-Digest: HOU6lywckkcygEDQs2MmBibQpxA=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: kMMwTcw8qqdCFBtdVIf0YuP6OpU=
+
+Name: assets/www/svg/gps.svg
+SHA1-Digest: nCXYDIm9NGZ1GSiHO0V4U2qvFgE=
+
+Name: assets/www/svg/auleMarker.svg
+SHA1-Digest: VbvBAYNIDoy2H2qQh6mEuOwbHJY=
+
+Name: assets/www/data/path37.json
+SHA1-Digest: rckinfLZP60T+4VaMvvCiLbJ5SU=
+
+Name: assets/www/data/path55.json
+SHA1-Digest: mGud8jUTuKpgNBvZCA0eoOfGj2M=
+
+Name: assets/www/data/old/path29.json
+SHA1-Digest: 1wUIOJaWh6zPnymyT9N/9VhWL/k=
+
+Name: assets/www/png/guida/8.gif
+SHA1-Digest: y7f3zWFoncyqqaxPilABqXzMu2Q=
+
+Name: assets/www/fotoInterne/0.png
+SHA1-Digest: 4n5SliHAjHtKZ1mCbGvnjujE2bo=
+
+Name: assets/www/fotoInterne/67.png
+SHA1-Digest: QLYaqKigrUWoTZo5D9GDIVawXNg=
+
+Name: assets/www/png/guida/3.gif
+SHA1-Digest: ROoh3kR2uRZihQuYw41ga9LIGuk=
+
+Name: assets/www/fotoInterne/1.png
+SHA1-Digest: Q9uQJ8SNO4vf2LFT5eraPOowv64=
+
+Name: assets/www/fotoInterne/63.png
+SHA1-Digest: dfNimhocxmaELWdPahJtFXj+5xk=
+
+Name: assets/www/data/old/path24.json
+SHA1-Digest: 2eaoOOsR64l+PlKYpCLnZcd21iU=
+
+Name: assets/www/spec/lib/jasmine-1.2.0/jasmine.js
+SHA1-Digest: UbuCXRtZstykBBa58lepG51icZw=
+
+Name: assets/www/data/old/path04.json
+SHA1-Digest: VVRMwZczOajBZdtduyhFqWG0b6Q=
+
+Name: assets/www/fotoInterne/44.png
+SHA1-Digest: qmyDm8Pdw+N3jOrbqEnm2EGEG8c=
+
+Name: assets/www/fotoInterne/2.png
+SHA1-Digest: 9vuoRECK+WUccWOfugsDXd7piuU=
+
+Name: assets/www/data/path31.json
+SHA1-Digest: hQyYexLcW/RQ6WpIJzV6cvzJQRo=
+
+Name: assets/www/splashScreen_iphone6.png
+SHA1-Digest: 587tQwNdH1iqfYu39khK9NZNz+Y=
+
+Name: assets/www/fotoInterne/12.png
+SHA1-Digest: aIQ7AgJ2jIEuXrA4701soz7u/uE=
+
+Name: assets/www/plugins/ionic-plugin-keyboard/www/android/keyboard.js
+SHA1-Digest: n2UMO3UQeqLvaQY3vSmfZvgReQY=
+
+Name: assets/www/data/dipartimenti.json
+SHA1-Digest: 7p1VcjhEbEOtWrpWPdaJ0sm7YPc=
+
+Name: assets/www/png/uscita.png
+SHA1-Digest: si2KQZpzFyNS/as+fxtjqKFFkxI=
+
+Name: assets/www/data/path02.json
+SHA1-Digest: Pr7Ca48WluHFjrC+6lfXyqg0Vps=
+
+Name: assets/www/svg/1.svg
+SHA1-Digest: vjN7wnfY47ronpdf4+UnZIGiLcM=
+
+Name: assets/www/spec/index.js
+SHA1-Digest: J4GKWWL87ZmFEo/y6AwV16rZhQY=
+
+Name: assets/www/fotoInterne/59.png
+SHA1-Digest: K5wirXENDdW0c0H1BughirtdyVE=
+
+Name: assets/www/data/old/path11.json
+SHA1-Digest: sLDCeUKFtGJs7rGs2hrTz8jMP28=
+
+Name: assets/www/png/dritto.png
+SHA1-Digest: 4wK6B86/k5HuL76Uidl4BNb37ko=
+
+Name: assets/www/icon.png
+SHA1-Digest: g+kxwSaoAuTn5iJW6S3bhzKFfKk=
+
+Name: assets/www/data/old/path39.json
+SHA1-Digest: Xy/O7b7Y1ZkHS0ooPgndJxT6v9c=
+
+Name: assets/www/plugins/cordova-plugin-tts/www/tts.js
+SHA1-Digest: 0Agcqt7ocM1kr9LV6J29vsMKT30=
+
+Name: assets/www/data/path45.json
+SHA1-Digest: et27jSP+LFOIei57EYYRyL6maZ8=
+
+Name: assets/www/png/map/mappa_16_35461_24626.png
+SHA1-Digest: WQ9dFNym2z7n3CaDrt+DtZ6vFBM=
+
+Name: assets/www/data/old/path03.json
+SHA1-Digest: 8k0BeHDIlH0oYOy3Zd7rnQuwhl0=
+
+Name: assets/www/data/old/path05.json
+SHA1-Digest: i/Z7C10rgxOINV2jD1e8xuabirI=
+
+Name: assets/www/fotoInterne/4.png
+SHA1-Digest: 33NmMfupv+1iYIHGphcTZWk13AU=
+
+Name: assets/www/fotoInterne/47.png
+SHA1-Digest: pPJo3mbr6tsIkjWKluA3yb2ExAM=
+
+Name: assets/www/png/map/mappa_17_70920_49249.png
+SHA1-Digest: +bwmQ2NLWR4mx4d6yxgVXTre3ZY=
+
+Name: assets/www/data/path16.json
+SHA1-Digest: lv5z73YBFvJyDhBIovGjBLVpBd0=
+
+Name: assets/www/data/path06.json
+SHA1-Digest: fBDH5maHr9YP5lzteSk3FTnYUvI=
+
+Name: assets/www/data/path19.json
+SHA1-Digest: 7vjqaA5kd1dihghPTTVH2CjJNzA=
+
+Name: assets/www/fotoInterne/32.png
+SHA1-Digest: cXxrYGlQoSraYS6feKcnGC5Mh34=
+
+Name: assets/www/logoUnisa.png
+SHA1-Digest: nn9qRZPJdycUK4caYw6kBIKUuIU=
+
+Name: assets/www/data/old/path14.json
+SHA1-Digest: jBHT30+EsvhOLJQ9FqZBlj/ZnGM=
+
+Name: assets/www/data/sport.json
+SHA1-Digest: ETnX9HueREtgmzQxOAhxUOzbJo0=
+
+Name: assets/www/png/map/mappa_17_70920_49253.png
+SHA1-Digest: FKTbcgv7z92tF8U0AqNL4xOt/7A=
+
+Name: assets/www/data/path43.json
+SHA1-Digest: vbxV2JfLIv3yKZmzLpNFiXuS/CU=
+
+Name: assets/www/data/path54.json
+SHA1-Digest: RkyYjjHJnlMXWuYBkitL4sqHv8M=
+
+Name: assets/www/png/dx.png
+SHA1-Digest: hvfPZZNUbgvPsOzWmCNXJQ2m6NM=
+
+Name: assets/www/data/path39.json
+SHA1-Digest: OMVDq6kHN4JYY6qhAyQB6INzW7Q=
+
+Name: assets/www/splash.png
+SHA1-Digest: 587tQwNdH1iqfYu39khK9NZNz+Y=
+
+Name: assets/www/data/path41.json
+SHA1-Digest: UA07JQTmebu2WpGXl/9a4UMb984=
+
+Name: assets/www/fotoInterne/51.png
+SHA1-Digest: r8KnQ6JnM32e3hOYu8RQiz/i/Ww=
+
+Name: assets/www/plugins/com.developersanddesigners.PhonegapDialogs/ww
+ w/android/notification.js
+SHA1-Digest: EslVTfdUqglxqMHAIMiMJat7ptg=
+
+Name: assets/www/png/map/mappa_17_70920_49254.png
+SHA1-Digest: jaXjIvYwgHmAaW2FE3SLGRpJIXk=
+
+Name: assets/www/plugins/cordova-plugin-globalization/www/Globalizatio
+ nError.js
+SHA1-Digest: 6LcnycI+alUW3xikKHST310Wv3c=
+
+Name: assets/www/png/map/mappa_16_35459_24625.png
+SHA1-Digest: MnnuV3BZDcPlF6UNfwo3RS9waIk=
+
+Name: assets/www/fotoInterne/42.png
+SHA1-Digest: cKI/lKhzNNA/CSSqGB9z8nKunNg=
+
+Name: assets/www/png/map/mappa_17_70921_49253.png
+SHA1-Digest: aDBWYJBP4nyo2ICY/gvvRurDNl0=
+
+Name: assets/www/data/old/path16.json
+SHA1-Digest: rqEcS12VJPKuEYCIqJHrrUz3b7g=
+
+Name: assets/www/fotoInterne/66.png
+SHA1-Digest: rKwWOeJZzB9gkd10RzjyS2SejCM=
+
+Name: assets/www/svg/serviziIcon.svg
+SHA1-Digest: s3ZTqgylvuSmLYecoT5KAVhvs2c=
+
+Name: assets/www/fotoInterne/54.png
+SHA1-Digest: POTa7OT0VcPHynafNnnhnQQjfCs=
+
+Name: assets/www/fotoInterne/39.png
+SHA1-Digest: 30D4Ocfnlm0YIVWehmbewaMEIZI=
+
+Name: assets/www/png/map/mappa_17_70922_49254.png
+SHA1-Digest: Dcgz2WLyG27BQMsSV7nUVdm9ido=
+
+Name: assets/www/png/attraversare.png
+SHA1-Digest: MDGHKPmqQxkeVneEIKoZeeVobjg=
+
+Name: assets/www/plugins/cordova-plugin-splashscreen/www/splashscreen.
+ js
+SHA1-Digest: 50vo6m10qL1ya4KPN6tgheUHH8Y=
+
+Name: assets/www/fotoInterne/3.png
+SHA1-Digest: mrWwWNsOWiRmLo+6CvLsQ1n9V5g=
+
+Name: assets/www/png/guida/12.gif
+SHA1-Digest: 9z1AEytRF+0MW3cYlVn1e47IZ54=
+
+Name: assets/www/svg/serviziMarker.svg
+SHA1-Digest: RM3eyeHgquIIGJcJpuLlUKfHk+k=
+
+Name: assets/www/svg/parcheggiMarker.svg
+SHA1-Digest: 8dJMRS6WCFZoLyWtDgAc8ro9FmU=
+
+Name: assets/www/data/old/path44.json
+SHA1-Digest: uwUtLLipniT5vWFaGd8ldoDjxMQ=
+
+Name: assets/www/spec/lib/jasmine-1.2.0/MIT.LICENSE
+SHA1-Digest: RytFXTsJ+13ad9mFrElp/Si5Hws=
+
+Name: assets/www/data/old/path12.json
+SHA1-Digest: 9EZnNDvqfdUqGAytU2AkCdg6MxE=
+
+Name: assets/www/data/old/path35.json
+SHA1-Digest: X+WYZFqRL0c0Xln6bzZGrVhrV0U=
+
+Name: assets/www/svg/sportIcon.svg
+SHA1-Digest: 1oQ3AkKO9jJB5QPKQ1n3wpp3OVU=
+
+Name: assets/www/fotoInterne/49.png
+SHA1-Digest: TobcAT5Loanh/BGbQqINESsVuZw=
+
+Name: assets/www/fotoInterne/24.png
+SHA1-Digest: wuLJhx8V6kwCR25dLSaoldU2C/s=
+
+Name: assets/www/png/map/mappa_15_17729_12312.png
+SHA1-Digest: DBfKw5Yau6GX+bDwN24uUgp+Gp0=
+
+Name: assets/www/data/old/path32.json
+SHA1-Digest: fFa/gu1a2sSLiHU0WXRK3lMyjtM=
+
+Name: assets/www/png/map/mappa_16_35460_24624.png
+SHA1-Digest: GaJjezzEVcIttHwX16iQmjP5UlU=
+
+Name: assets/www/png/map/mappa_16_35459_24627.png
+SHA1-Digest: UFzyrQ2BlrMf8KCyV7mtWRAf3fU=
+
+Name: assets/www/data/path36.json
+SHA1-Digest: W4urGyjk2q/5539qczKmccF6Nkw=
+
+Name: assets/www/data/path05.json
+SHA1-Digest: 8eUvmLZYaQIwTVH7Ol7rV/R6oBE=
+
+Name: assets/www/png/map/mappa_17_70923_49253.png
+SHA1-Digest: GGUdJtJrG6qj9XWAAIP49H6JbJk=
+
+Name: assets/www/css/index.css
+SHA1-Digest: Xn5KKnRg99sIQW5z0rf5zJjEDgI=
+
+Name: assets/www/fotoInterne/58.png
+SHA1-Digest: 4euntEsSUpSwZjkIOVyrv82sTcg=
+
+Name: resources.arsc
+SHA1-Digest: 80YBVQVp+RGP8nKg+KeNE3pdH1A=
+
+Name: assets/www/png/map/mappa_17_70923_49251.png
+SHA1-Digest: DBss/NUkPFSf1M+N+uHLCWtT9To=
+
+Name: assets/www/data/path07.json
+SHA1-Digest: qqtOhKgkP5Q6t+N4NEcRVfgnZCo=
+
+Name: assets/www/data/path56.json
+SHA1-Digest: wnJvJ/HF3oCNlzrptZGhWbA30g8=
+
+Name: assets/www/svg/omino.svg
+SHA1-Digest: fjnRKYGyzbxR4aQZltrJ9Tzlajw=
+
+Name: assets/www/data/path08.json
+SHA1-Digest: PubX2A8zCznF3aXV8UofDmDCNJM=
+
+Name: assets/www/fotoInterne/9.png
+SHA1-Digest: Nn7kdyZ/jFkaSp5rCtW1FzBeZyM=
+
+Name: assets/www/data/path01.json
+SHA1-Digest: /Cb44ijXkeWdoCOOMHf22z4Bupg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: MIKytX/oqikEvUSSs6LXAsTSs78=
+
+Name: assets/www/png/map/mappa_17_70919_49251.png
+SHA1-Digest: Oe3ZkIbX6UR3B2Ifls4P65qj2VU=
+
+Name: assets/www/img/logo.png
+SHA1-Digest: aHSoKB2Y4F7+KipN+5gEjHUFqPk=
+
+Name: assets/www/fotoInterne/56.png
+SHA1-Digest: Xo252EXp+tsLf1TyfTlpeEhFRt8=
+
+Name: assets/www/svg/5.svg
+SHA1-Digest: Vq4PTtiIfPiPKxWXwHrgAgsEGxo=
+
+Name: assets/www/data/old/path33.json
+SHA1-Digest: YTWDt0dNLbTW2XXIf7aDqBK/zG0=
+
+Name: assets/www/png/arrowUp.png
+SHA1-Digest: DFkUDuSNtOKIxJLYFNnV5FTGeC0=
+
+Name: assets/www/data/path20.json
+SHA1-Digest: OluD0wjkPYZV2yVLYDbOsLOQ+BM=
+
+Name: assets/www/svg/auleIcon.svg
+SHA1-Digest: OZZZ5xt+OEizpo2dDY/3xfnfGB4=
+
+Name: assets/www/data/old/path36.json
+SHA1-Digest: GH99azCpFhM7MqSRw8KvCcx2XZE=
+
+Name: assets/www/data/path40.json
+SHA1-Digest: qJ1aTaJdmDBB7Q7CQOpP21G8l9M=
+
+Name: assets/www/data/old/path02.json
+SHA1-Digest: YYOFWfweK7dETrvSRlLmG1rXGDU=
+
+Name: assets/www/data/path49.json
+SHA1-Digest: cV4MyyQbtctFCmRtOIUN87FQkog=
+
+Name: assets/www/fotoInterne/16.png
+SHA1-Digest: B5X53+rcYYgi71mivgQ5UoPP7Ok=
+
+Name: assets/www/png/map/mappa_17_70923_49249.png
+SHA1-Digest: ccPbQh5XP+XlN3yQZNVC8DRE9eY=
+
+Name: assets/www/data/old/path27.json
+SHA1-Digest: aHJKs7cDj2+Wwsr/xosQsLF1/Go=
+
+Name: assets/www/fotoInterne/34.png
+SHA1-Digest: FO5PrdIg1NY9a9FMViUImmP8py0=
+
+Name: classes.dex
+SHA1-Digest: wMhtn1cSJHezVCTJgkaO0nxV1GY=
+
+Name: assets/www/data/old/path25.json
+SHA1-Digest: aY77YlNZA7BtzARfzGQf+X5G+T0=
+
+Name: assets/www/png/map/mappa_17_70921_49249.png
+SHA1-Digest: Kjl73feEvGEL6wyILKfLNAEir4s=
+
+Name: assets/www/png/map/mappa_17_70920_49250.png
+SHA1-Digest: S0nLL7020sJrzrOmwQzGJslcB8k=
+
+Name: res/drawable/icon.png
+SHA1-Digest: kMMwTcw8qqdCFBtdVIf0YuP6OpU=
+
+Name: assets/www/spec/lib/jasmine-1.2.0/jasmine.css
+SHA1-Digest: DjIgU9kCSPAtc8h6KJIq1kR9aaU=
+
+Name: assets/www/png/discesa.png
+SHA1-Digest: a/NVCWb9ftIFMeKK1vY1T4QaWPc=
+
+Name: assets/www/png/map/mappa_15_17730_12313.png
+SHA1-Digest: axYGqDwJcq0xthMeuLshetRDzEs=
+
+Name: assets/www/fotoInterne/10.png
+SHA1-Digest: rJg/pzNc+oT+MO5N1VNTLoNUtt4=
+
+Name: assets/www/png/map/mappa_17_70919_49252.png
+SHA1-Digest: 32zkBPPRxrSYLYyKJs8VqXYsNz8=
+
+Name: assets/www/data/path50.json
+SHA1-Digest: mgOJgjEyUs91q7QkCzm+FR7FU7s=
+
+Name: assets/www/data/old/searchPath.json
+SHA1-Digest: bqBd3OyMl4hoBceAVQoW0FZlUBk=
+
+Name: assets/www/fotoInterne/46.png
+SHA1-Digest: yDlaxhySBpZ6I1o9NsfGL/HxhLw=
+
+Name: assets/www/data/old/path23.json
+SHA1-Digest: S1DizqBXxA6a/ZVa8w5t8se9ASI=
+
+Name: assets/www/data/old/path34.json
+SHA1-Digest: wbcHSZQmvjsHGjA7aQc6wuC6Fv8=
+
+Name: assets/www/data/path15.json
+SHA1-Digest: SWtDwttqp0rxs6J/JmuPt1Gk1aw=
+
+Name: assets/www/fotoInterne/36.png
+SHA1-Digest: OON846qp/CMf9cARbyDR1JKyXI0=
+
+Name: assets/www/fotoInterne/11.png
+SHA1-Digest: ohe94C2o+/3zz5S4YxXmxfJBkmc=
+
+Name: assets/www/png/bar.png
+SHA1-Digest: o0srxUJHToZ4qoyCyt17GtaxTuk=
+
+Name: assets/www/png/map/mappa_17_70919_49249.png
+SHA1-Digest: RuoQvMT81z9IZmkBIJqROHWDOOk=
+
+Name: assets/www/fotoInterne/15.png
+SHA1-Digest: GXdcnmcpp7Qg7/WntpjR5uffies=
+
+Name: assets/www/data/path25.json
+SHA1-Digest: VMRqkUhvM2qETNzbfvG4HK39EB0=
+
+Name: assets/www/fotoInterne/41.png
+SHA1-Digest: 7rFTPX21q7PBIZ4+iWfN+EKmnBc=
+
+Name: assets/www/png/guida/11.gif
+SHA1-Digest: qEAuTMNeHo8YI5Nrarcyzh0R9FU=
+
+Name: assets/www/data/old/path43.json
+SHA1-Digest: j2rVtwZNEHOGw2oEh1ROKZ8iPgI=
+
+Name: assets/www/fotoInterne/19.png
+SHA1-Digest: sEmJwGMm/i/cYahQT3go3K0gBv0=
+
+Name: assets/www/png/attraversarePorteInterne.png
+SHA1-Digest: +k7XdVwYAWuzhQG8XYET2sArbRU=
+
+Name: assets/www/spec.html
+SHA1-Digest: w9/CYecDvknKKoNiJLCH7FPL7vw=
+
+Name: assets/www/fotoInterne/60.png
+SHA1-Digest: I1rRK8MuAKgPXIO/ZLjeuvc+x3A=
+
+Name: assets/www/data/path04.json
+SHA1-Digest: gKdyzaL9D7P2+cTCjVvVFKuta1c=
+
+Name: assets/www/png/map/mappa_17_70920_49252.png
+SHA1-Digest: 0s1AkF9vc5g+zjtvqiP4NOrQQGU=
+
+Name: assets/www/app.js
+SHA1-Digest: mbVRX+QXF4DcC0fSNe+o/BZvhc0=
+
+Name: assets/www/fotoInterne/57.png
+SHA1-Digest: g6xOidF83zc/oCeblDAh7SjGWB4=
+
+Name: assets/www/data/old/path07.json
+SHA1-Digest: e4gTSxJSMMZY2eU7C65mCAeYUDw=
+
+Name: assets/www/data/path03.json
+SHA1-Digest: WVEyWRc1zuhofD/3TiMP+aUZXQ4=
+
+Name: assets/www/js/index.js
+SHA1-Digest: qWUWzEgR1zqkZtj2YJBZhJRTQqk=
+
+Name: assets/www/png/map/mappa_15_17730_12312.png
+SHA1-Digest: xQp+P7yHYTToogULwd7CTom4vhY=
+
+Name: assets/www/plugins/cordova-plugin-geolocation/www/android/geoloc
+ ation.js
+SHA1-Digest: pteYkdi1GLR7AMQ5ASz0fP5Rf3w=
+
+Name: assets/www/plugins/com.developersanddesigners.PhonegapDialogs/ww
+ w/notification.js
+SHA1-Digest: ymkLwMw8YuZ3S0CCU8ILh0zMgsM=
+
+Name: assets/www/fotoInterne/22.png
+SHA1-Digest: 8FVb1HAzBubVapRv05SsG4H1H8Q=
+
+Name: assets/www/fotoInterne/14.png
+SHA1-Digest: Yx8QKbGytxB3ce5lcMz+DF0o4J8=
+
+Name: assets/www/index.html
+SHA1-Digest: 4aWVtVzJchVaZKLHoKgqwk1nBYg=
+
+Name: assets/www/spec/helper.js
+SHA1-Digest: y5Tfxnsc7GA289HJFXCZED1R5eE=
+
+Name: assets/www/plugins/cordova-plugin-device/www/device.js
+SHA1-Digest: v3sEbYpD9zexdjmPtLCn5oW78Lk=
+
+Name: assets/www/fotoInterne/20.png
+SHA1-Digest: LYYJayIZsoH91tJWaY47AwNMsJ8=
+
+Name: assets/www/fotoInterne/55.png
+SHA1-Digest: JtWGQcLWvkY0VG2zjoPLQOl0Ho0=
+
+Name: assets/www/data/old/path20.json
+SHA1-Digest: Tv4bKQ3AbMNRRZsvaZXqTHM7FzU=
+
+Name: assets/www/fotoInterne/53.png
+SHA1-Digest: OsdVTqfw8B1N5RFtxVHkMJaO11M=
+
+Name: assets/www/data/old/path46.json
+SHA1-Digest: J58LwCxPJy6c4Xy3+porKz+ust8=
+
+Name: assets/www/resources/css/sencha-touch-66b4d7ed-2fed-498d-9cc4-38
+ 3585b70c84.css
+SHA1-Digest: olGWtFVZ77aOB+MKv6oddomxjjQ=
+
+Name: assets/www/data/old/path45.json
+SHA1-Digest: snty+mTTeLACtRUQ2qJsae/xGXc=
+
+Name: assets/www/data/path33.json
+SHA1-Digest: X41HNKa1uKY8Bg7GiT86tPpmVx0=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: 09ZWDrQSJMRayDv25DH7S5m8oNI=
+
+Name: assets/www/png/ascensore.png
+SHA1-Digest: RjfY0mfQkEgTXbOXIAzByIToo/I=
+
+Name: assets/www/png/map/mappa_17_70921_49254.png
+SHA1-Digest: OA4PqYuzMHZO2zUUj+xXGsh4s7E=
+
+Name: assets/www/data/path47.json
+SHA1-Digest: XefvwIDP7crklzUblCVdEVmwhfU=
+
+Name: assets/www/fotoInterne/38.png
+SHA1-Digest: gbnVyBFgrgLLzsmdtEyp5myFUJk=
+
+Name: assets/www/png/map/mappa_17_70922_49251.png
+SHA1-Digest: vnsOc6WVh3ypHhLvTLW2Xu+yafk=
+
+Name: assets/www/png/guida/9.gif
+SHA1-Digest: R1uOxTBT+1863HBCqSNDEJhMDGI=
+
+Name: assets/www/data/old/path10.json
+SHA1-Digest: 317FIXqsMr1yJbzbjjV6VJNfl/Y=
+
+Name: assets/www/png/map/mappa_17_70922_49252.png
+SHA1-Digest: L1NKMjLX/yuOS4Zsr5p3Eiz0bZQ=
+
+Name: assets/www/data/path18.json
+SHA1-Digest: gbl+jeFq1G7MocVKHnwI7Au+O48=
+
+Name: assets/www/png/map/mappa_17_70920_49251.png
+SHA1-Digest: WJHihQze/JLMUwIhHGG5G50JK9s=
+
+Name: assets/www/data/path23.json
+SHA1-Digest: yTFhmrQx/cmxHxntaq9/aUUsAmc=
+
+Name: assets/www/png/map/mappa_17_70923_49254.png
+SHA1-Digest: dzo/bKywEmOG2uNaP+S1qgofW0g=
+
+Name: assets/www/data/old/path15.json
+SHA1-Digest: yITi1ar9qY8G3CZx8yQrzDURyv8=
+
+Name: assets/www/data/aule.json
+SHA1-Digest: R3tzpJAga39S3kQWHZPwWhQJuoM=
+
+Name: assets/www/png/guida/2.gif
+SHA1-Digest: 5mn2n8iHaps0XyTYIVym+DqkGwQ=
+
+Name: assets/www/data/path17.json
+SHA1-Digest: 9vn8gbs93ZkZq6KEqqTMIC7VuXc=
+
+Name: assets/www/png/map/mappa_17_70922_49253.png
+SHA1-Digest: VUnA7inyj2lHCV9sQXXVv8R2tMc=
+
+Name: assets/www/data/path09.json
+SHA1-Digest: NOjuVbTLoWSg2ly2c+EQn0o9BAg=
+
+Name: assets/www/png/guida/1.gif
+SHA1-Digest: BryZEdoThTf9pKiVO+EERtyYg1E=
+
+Name: res/drawable-mdpi-v4/splash.png
+SHA1-Digest: 7Alj+JXZUCS75fdA97FjtXfBPto=
+
+Name: assets/www/svg/dipartimentiMarker.svg
+SHA1-Digest: rhz+OgHDzK5ogoW1WomMqyYdRhs=
+
+Name: assets/www/data/searchPath.json
+SHA1-Digest: MJrF5a5x1wDwPDYHZHUdz4BxT3c=
+
+Name: assets/www/png/map/mappa_17_70921_49251.png
+SHA1-Digest: garGJB6r2H7vWbq3YwyeIHl4b9M=
+
+Name: assets/www/fotoInterne/43.png
+SHA1-Digest: DK3zgzf8AnSFQMvMeLU1PhWogvQ=
+
+Name: assets/www/svg/frecciaDx.svg
+SHA1-Digest: FGCawsGVOPusrj+3T/ASeZJGk2U=
+
+Name: assets/www/data/old/path30.json
+SHA1-Digest: YLriMHrwoiRwr3yvA5aXFu0Yb8A=
+
+Name: assets/www/png/tettoia.png
+SHA1-Digest: OAew8ulM0nCcuVsmGXIlT0PxY+s=
+
+Name: assets/www/data/path38.json
+SHA1-Digest: eCq1fTxC8B/BNe2ETprnpnne234=
+
+Name: assets/www/spec/lib/jasmine-1.2.0/jasmine-html.js
+SHA1-Digest: HQvXPy78BuOZPFGkxsNvRiBM4YA=
+
+Name: assets/www/png/guida/13.gif
+SHA1-Digest: TC7DgkswXwFcAjTZ5j78dwjLxYI=
+
+Name: assets/www/data/path35.json
+SHA1-Digest: 0TJAWW2wXiFGtHc/CwWxgjX+CUY=
+
+Name: assets/www/png/map/mappa_17_70922_49250.png
+SHA1-Digest: aq03RJIZe4mHmoVvB+QucRSrSeQ=
+

@@ -1,0 +1,70 @@
+	{
+	"tipo": "dipartimenti",
+	"icona": "png/icone/didattica/Dipartimento.png",
+	"lista": [{
+		"nome": "Informatica",
+		"info": "<div style='font-weight:bold;font-style:italic'>Orario di apertura</div><div>7.30 - 18:00</div><br><div style='font-weight:bold;font-style:italic'>Indirizzo</div><div>Università degli studi di Salerno, Via Giovanni Paolo II, 84084 Fisciano (SA), Italy</div><br><div style='font-weight:bold;font-style:italic'>FAX</div><div>+39 089 96 9600</div><br><div style='font-weight:bold;font-style:italic'>Direttore</div><div>Alfredo De Santis</div><br><div style='font-weight:bold;font-style:italic'>Telefono</div><div>+39 089 96 9723</div>",
+		"lat": 40.7744404,
+		"lon": 14.7889542
+	},
+	{
+		"nome": "Scienze Giuridiche",
+		"lat": 40.7695445,
+		"lon": 14.791106
+	},
+	{
+		"nome": "Chimica e Biologia",
+		"lat": 40.7687118,
+		"lon": 14.7920179
+	},
+	{
+		"nome": "Scienze del Patrimonio Culturale",
+		"lat": 40.7687118,
+		"lon": 14.7920179
+	},
+	{
+		"nome": "Ingegneria dell'Informazione,Ingegneria Elettrica e Matematica Applicata",
+		"lat": 40.7687118,
+		"lon": 14.7920179
+	},
+	{
+		"nome": "Ingegneria Civile",
+		"lat": 40.772945,
+		"lon": 14.7822011
+	},
+	{
+		"nome": "Ingegneria Industriale",
+		"lat": 40.773505,
+		"lon": 14.790065
+	},
+	{
+		"nome": "Scienze Economiche e Statistiche",
+		"lat": 40.7712818,
+		"lon": 14.7898463
+	},
+	{
+		"nome": "Fisica",
+		"lat": 40.7752289,
+		"lon": 14.7862053
+	},
+	{
+		"nome": "Scienze Politiche, Sociali e della Comunicazione",
+		"lat": 40.7715434,
+		"lon": 14.7902155
+	},
+	{
+		"nome": "Farmacia",
+		"lat": 40.773838,
+		"lon": 14.7870763
+	},
+	{
+		"nome": "Matematica",
+		"lat": 40.8407299,
+		"lon": 14.1834167
+	},
+	{
+		"nome": "Studi e Ricerche Aziendali",
+		"lat": 40.7712818,
+		"lon": 14.7832803
+	}
+	]}

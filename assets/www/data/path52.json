@@ -1,0 +1,91 @@
+{
+	"pathId": "path52",
+	"percorso": "<ul><li> <img src='png/start.png'> &nbsp; 1. Uscire dall'edificio</li><li> <img src='png/dritto.png'> &nbsp; 2. Proseguire dritto per <span>50m</span> circa in direzione dell'edificio a specchio</li><li> <img src='png/dx.png'> &nbsp; 3. Girare a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 4. Proseguire sotto il porticato dell&#39;edificio</li><li> <img src='png/sx.png'> &nbsp; 5. Girare a SINISTRA</li><li> <img src='png/camminare.png'> &nbsp; 6. Proseguire esternamente superando il dipartimento di farmacia</li><li> <img src='png/entrata.png'> &nbsp; 7. Dopo circa <span>100m</span> entrare nel plesso di ingegneria</li><li> <img src='png/ascensore.png'> &nbsp; 8. Utilizzare l&#39;ascensore sulla destra (Tasto: 0)</li><li> <img src='png/bar.png'> &nbsp; 9. Percorrere tutto il corridoio di ingegneria fino a giungere all&#39;area bar</li><li> <img src='png/uscita.png'> &nbsp; 10. Imboccare l&#39;uscita a SINISTRA</li><li> <img src='png/salita.png'> &nbsp; 11. Percorrere la salita in direzione terminal costeggiando la mensa</li><li> <img src='png/dx.png'> &nbsp; 12. Girare a DESTRA sul marciapiede</li><li> <img src='png/salita.png'> &nbsp; 13. Percorrere la salita che conduce alla mensa</li><li> <img src='png/camminare.png'> &nbsp; 14. Costeggiare il perimetro dell&#39;edificio mensa fino all&#39;ingresso principale a sinistra</li><li> <img src='png/arrivo.png'> &nbsp; 15. Arrivo alla mensa</li></ul>",
+	"lista": [{
+		"lat": 40.775217,
+		"lon": 14.789262
+	},
+	{
+		"index": 0,
+		"lat": 40.775235,
+		"lon": 14.789318
+	},
+	{
+		"index": 1,
+		"lat": 40.774734,
+		"lon": 14.789712
+	},
+	{
+		"index": 2
+	},
+	{
+		"index": 3,
+		"lat": 40.774547,
+		"lon": 14.789275
+	},
+	{
+		"index": 4
+	},
+	{
+		"index": 5,
+		"lat": 40.773802,
+		"lon": 14.789861
+	},
+	{
+		"index": 6,
+		"lat": 40.773573,
+		"lon": 14.789981
+	},
+	{
+		"index": 7
+	},
+	{
+		"lat": 40.773648,
+		"lon": 14.790193
+	},
+	{
+		"index": 8,
+		"lat": 40.772287,
+		"lon": 14.791237
+	},
+	{
+		"index": 9,
+		"lat": 40.772367,
+		"lon": 14.791447
+	},
+	{
+		"lat": 40.772538,
+		"lon": 14.791515
+	},
+	{
+		"index": 10,
+		"lat": 40.773448,
+		"lon": 14.793680
+	},
+	{
+		"index": 11
+	},
+	{
+		"index": 12,
+		"lat": 40.773197,
+		"lon": 14.793816
+	},
+	{
+		"lat": 40.773382,
+		"lon": 14.793682
+	},
+	{
+		"lat": 40.773164,
+		"lon": 14.793171
+	},
+	{
+		"index": 13,
+		"lat": 40.772827,
+		"lon": 14.793413
+	},
+	{
+		"index": 14,
+		"lat": 40.772867,
+		"lon": 14.793504
+	}]
+}

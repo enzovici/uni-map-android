@@ -1,0 +1,48 @@
+	{
+	"pathId": "path03",
+	"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Scendere dal Terminal</li><li> <img src='png/camminare.png'> &nbsp; 2. Superare l&#39;area di sosta</li><li> <img src='png/dx.png'> &nbsp; 3. Girare a DESTRA</li><li> <img src='png/incrocio.png'> &nbsp; 4. Percorrere la discesa fino al secondo incrocio</li><li> <img src='png/sx.png'> &nbsp; 5. Girare a SINISTRA</li><li> <img src='png/tettoia.png'> &nbsp; 6. Proseguire sotto la tettoia a DESTRA</li><li> <img src='png/entrata.png'> &nbsp; 7. Entrare nel primo plesso di scienze della formazione</li><li> <img src='png/camminare.png'> &nbsp; 8. Attraversare tutto il corridoio di scienze della formazione</li><li> <img src='png/arrivo.png'> &nbsp; 9. In fondo sulla destra troviamo il punto di incontro di economia (punto di riferimento: distributori ed info desk)</li></ul>",
+	"lista": [{
+		"lat": 40.773798,
+		"lon": 14.793520
+	},
+	{
+		"lat":40.773798,
+		"lon": 14.793419
+	},
+	{
+		"lat": 40.773589,
+		"lon": 14.793339
+	},
+	{
+		"lat": 40.773669,
+		"lon": 14.792872
+	},
+	{
+		"lat": 40.773235,
+		"lon":14.793164
+	},
+	{
+		"lat": 40.772809,
+		"lon": 14.792190
+	},
+	{
+		"lat": 40.772582,
+		"lon": 14.792360
+	},
+	{
+		"lat": 40.772353,
+		"lon": 14.792275
+	},
+	{
+		"lat": 40.772240,
+		"lon": 14.792364
+	},
+	{
+		"lat": 40.772130,
+		"lon": 14.792113
+	},
+	{
+		"lat": 40.771504,
+		"lon": 14.792587
+	}
+	]}

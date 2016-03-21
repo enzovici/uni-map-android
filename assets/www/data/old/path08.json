@@ -1,0 +1,61 @@
+{
+	"pathId": "path08",
+	"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Uscire dal punto di incontro di Informatica</li><li> <img src='png/sx.png'> &nbsp; 2. Girare a SINISTRA</li><li> <img src='png/camminare.png'> &nbsp; 3. Proseguire sotto il porticato dell&#39;edificio</li><li> <img src='png/sx.png'> &nbsp; 4. Girare a SINISTRA</li><li> <img src='png/dritto.png'> &nbsp; 5. Proseguire dritto</li><li> <img src='png/entrata.png'> &nbsp; 6. Dopo circa <span>100m</span> entrare nel plesso di ingegneria</li><li> <img src='png/ascensore.png'> &nbsp; 7. Utilizzare l&#39;ascensore sulla destra (Tasto: 0)</li><li> <img src='png/bar.png'> &nbsp; 8. Percorrere tutto il corridoio di ingegneria fino a giungere all&#39;area bar</li><li> <img src='png/uscita.png'> &nbsp; 9. Imboccare l&#39;uscita a SINISTRA</li><li> <img src='png/salita.png'> &nbsp; 10. Percorrere la salita in direzione terminal</li><li> <img src='png/sx.png'> &nbsp; 11. Girare a SINISTRA</li><li> <img src='png/arrivo.png'> &nbsp; 12. Arrivo al terminal</li></ul>",
+	"lista": [{
+		"lat": 40.774688,
+		"lon": 14.789755
+	},
+	{
+		"lat": 40.774734,
+		"lon": 14.789712
+	},
+	{
+		"lat": 40.774547,
+		"lon": 14.789275
+	},
+	{
+		"lat": 40.773802,
+		"lon": 14.789861
+	},
+	{
+		"lat": 40.773573,
+		"lon": 14.789981
+	},
+	{
+		"lat": 40.773648,
+		"lon": 14.790193
+	},
+	{
+		"lat": 40.772287,
+		"lon": 14.791237
+	},
+	{
+		"lat": 40.772367,
+		"lon": 14.791447
+	},
+	{
+		"lat": 40.772538,
+		"lon": 14.791515
+	},
+	{
+		"lat": 40.773235,
+		"lon": 14.793164
+	},
+	{
+		"lat": 40.773669,
+		"lon": 14.792872
+	},
+	{
+		"lat": 40.773589,
+		"lon": 14.793339
+	},
+	{
+		"lat": 40.773798,
+		"lon": 14.793419
+	},
+	{
+		"lat": 40.773798,
+		"lon": 14.793520
+	}
+	]
+}

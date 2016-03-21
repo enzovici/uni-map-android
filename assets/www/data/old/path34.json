@@ -1,0 +1,52 @@
+{
+"pathId": "path34",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Uscire dall&#39;edificio del CUS-Salerno</li><li> <img src='png/camminare.png'> &nbsp; 2. Procedere verso sinistra, fino al ciglio della strada</li><li> <img src='png/attraversare.png'> &nbsp; 3. Attraversare la strada sulle strisce pedonali</li><li> <img src='png/dx.png'> &nbsp; 4. Girare a DESTRA</li><li> <img src='png/incrocio.png'> &nbsp; 5. Procedere fino all&#39;incrocio che dista circa <span>50m</span></li><li> <img src='png/sx.png'> &nbsp; 6. Girare a SINISTRA</li><li> <img src='png/salita.png'> &nbsp; 7. Percorrere la salita </li><li> <img src='png/incrocio.png'> &nbsp; 8. Attraversare l&#39;incrocio proseguendo dritto</li><li> <img src='png/fontana.png'> &nbsp; 9. Arrivare alla fontana </li><li> <img src='png/dx.png'> &nbsp; 10. Girare a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 11. Attraversare la piazza </li> 	<li> <img src='png/discesa.png'> &nbsp; 12. Proseguire fino alla rampa</li><li> <img src='png/dritto.png'> &nbsp; 13. Proseguire dritto</li><li> <img src='png/incrocio.png'> &nbsp; 14. Dirigersi fino al terzo incrocio (dopo il teatro dell&#39;Ateneo)</li><li> <img src='png/dx.png'> &nbsp; 15. Girare a DESTRA</li><li> <img src='png/dritto.png'> &nbsp; 16. Proseguire dritto fino al Rettorato</li><li> <img src='png/entrata.png'> &nbsp; 17. Entrare all&#39;interno del plesso del rettorato e dirigersi verso la sezione R8-Rettorato</li><li> <img src='png/dritto.png'> &nbsp; 18. Mantenere la sinistra e proseguire dritto lasciando sulla destra una rampa di scale	</li><li> <img src='png/camminare.png'> &nbsp; 19. Entrare nel corridoio e percorrerlo finche non si raggiunge un atrio, il laboratorio si trova dirimpetto all&#39;uscita di emergenza</li><li> <img src='png/arrivo.png'> &nbsp; 20. Arrivo al laboratorio H</li></ul>", 
+"lista": [{
+	"lat": 40.770528,
+	"lon": 14.787344
+},
+{
+	"lat": 40.770550,
+	"lon": 14.787958
+},
+{
+	"lat": 40.769970,
+	"lon": 14.788365
+},
+{
+	"lat": 40.769583,
+	"lon": 14.788693
+},
+{
+	"lat": 40.770349,
+	"lon": 14.790534
+},
+{
+	"lat": 40.770591,
+	"lon": 14.791227
+},
+{
+	"lat": 40.770833,
+	"lon": 14.791806
+},
+{
+	"lat": 40.770392,
+	"lon": 14.792156
+},
+{
+	"lat": 40.770073,
+	"lon": 14.792264
+},
+{
+	"lat": 40.769461,
+	"lon": 14.792775
+},
+{
+	"lat": 40.769069,
+	"lon": 14.791780
+},
+{
+	"lat": 40.768944,
+	"lon": 14.791878
+}
+]}

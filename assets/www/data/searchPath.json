@@ -1,0 +1,858 @@
+[{
+	"pathId": "path01",
+	"da": "polo sportivo",
+	"a": "ingegneria"
+},
+{
+	"pathId": "path02",
+	"da": "ingegneria",
+	"a": "polo sportivo"
+},
+{
+	"pathId": "path03",
+	"da": "terminal bus",
+	"a": "economia"
+},
+{
+	"pathId": "path04",
+	"da": "economia",
+	"a": "terminal bus"
+},
+{
+	"pathId": "path05",
+	"da": "terminal bus",
+	"a": "giurisprudenza"
+},
+{
+	"pathId": "path06",
+	"da": "giurisprudenza",
+	"a": "terminal bus"
+},
+{
+	"pathId": "path07",
+	"da": "terminal bus",
+	"a": "Informatica(F)"
+},
+{
+	"pathId": "path08",
+	"da": "Informatica(F)",
+	"a": "terminal bus"
+},
+{
+	"pathId": "path09",
+	"da": "terminal bus",
+	"a": "ingegneria"
+},
+{
+	"pathId": "path10",
+	"da": "ingegneria",
+	"a": "terminal bus"
+},
+{
+	"pathId": "path11",
+	"da": "mensa",
+	"a": "giurisprudenza"
+},
+{
+	"pathId": "path12",
+	"da": "giurisprudenza",
+	"a": "mensa"
+},
+{
+	"pathId": "path13",
+	"da": "mensa",
+	"a": "Informatica(F)"
+},
+{
+	"pathId": "path14",
+	"da": "Informatica(F)",
+	"a": "mensa"
+},
+{
+	"pathId": "path15",
+	"da": "mensa",
+	"a": "ingegneria"
+},
+{
+	"pathId": "path16",
+	"da": "ingegneria",
+	"a": "mensa"
+},
+{
+	"pathId": "path17",
+	"da": "residenze",
+	"a": "economia"
+},
+{
+	"pathId": "path18",
+	"da": "economia",
+	"a": "residenze"
+},
+{
+	"pathId": "path19",
+	"da": "residenze",
+	"a": "giurisprudenza"
+},
+{
+	"pathId": "path20",
+	"da": "giurisprudenza",
+	"a": "residenze"
+},
+{
+	"pathId": "path21",
+	"da": "residenze",
+	"a": "ingegneria"
+},
+{
+	"pathId": "path22",
+	"da": "ingegneria",
+	"a": "residenze"
+},
+{
+	"pathId": "path23",
+	"da": "residenze",
+	"a": "Informatica(F)"
+},
+{
+	"pathId": "path24",
+	"da": "Informatica(F)",
+	"a": "residenze"
+},
+{
+	"pathId": "path25",
+	"da": "laboratorio h",
+	"a": "lingue"
+},
+{
+	"pathId": "path26",
+	"da": "lingue",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path27",
+	"da": "laboratorio h",
+	"a": "scienze della formazione"
+},
+{
+	"pathId": "path28",
+	"da": "scienze della formazione",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path29",
+	"da": "laboratorio h",
+	"a": "residenze"
+},
+{
+	"pathId": "path30",
+	"da": "residenze",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path31",
+	"da": "laboratorio h",
+	"a": "farmacia"
+},
+{
+	"pathId": "path32",
+	"da": "farmacia",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path33",
+	"da": "laboratorio h",
+	"a": "polo sportivo"
+},
+{
+	"pathId": "path34",
+	"da": "polo sportivo",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path35",
+	"da": "laboratorio h",
+	"a": "economia"
+},
+{
+	"pathId": "path36",
+	"da": "economia",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path37",
+	"da": "laboratorio h",
+	"a": "giurisprudenza"
+},
+{
+	"pathId": "path38",
+	"da": "giurisprudenza",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path39",
+	"da": "laboratorio h",
+	"a": "Informatica(F)"
+},
+{
+	"pathId": "path40",
+	"da": "Informatica(F)",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path41",
+	"da": "laboratorio h",
+	"a": "ingegneria"
+},
+{
+	"pathId": "path42",
+	"da": "ingegneria",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path43",
+	"da": "laboratorio h",
+	"a": "terminal bus"
+},
+{
+	"pathId": "path44",
+	"da": "terminal bus",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path45",
+	"da": "laboratorio h",
+	"a": "mensa"
+},
+{
+	"pathId": "path46",
+	"da": "mensa",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica Studi(F)",
+	"da2": "StudiF_ingressoF",
+	"a": "Informatica P1-P2",
+	"a2": "ingressoP_P1-P2"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica Studi(F)",
+	"da2": "StudiF_ingressoF",
+	"a": "Informatica P3-P6",
+	"a2": "ingressoP_P3-P6"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica Studi(F)",
+	"da2": "StudiF_ingressoF",
+	"a": "Informatica P7-P13",
+	"a2": "ingressoP_P7-P13"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica Studi(F)",
+	"da2": "StudiF_ingressoF",
+	"a": "Informatica P14-P21",
+	"a2": "ingressoP_P14-P21"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica F1-F8",
+	"da2": "F1-F8_ingressoF",
+	"a": "Informatica P1-P2",
+	"a2": "ingressoP_P1-P2"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica F1-F8",
+	"da2": "F1-F8_ingressoF",
+	"a": "Informatica P3-P6",
+	"a2": "ingressoP_P3-P6"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica F1-F8",
+	"da2": "F1-F8_ingressoF",
+	"a": "Informatica P7-P13",
+	"a2": "ingressoP_P7-P13"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica F1-F8",
+	"da2": "F1-F8_ingressoF",
+	"a": "Informatica P14-P21",
+	"a2": "ingressoP_P14-P21"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica Laboratori(F)",
+	"da2": "LaboratoriF_ingressoF",
+	"a": "Informatica P1-P2",
+	"a2": "ingressoP_P1-P2"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica Laboratori(F)",
+	"da2": "LaboratoriF_ingressoF",
+	"a": "Informatica P3-P6",
+	"a2": "ingressoP_P3-P6"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica Laboratori(F)",
+	"da2": "LaboratoriF_ingressoF",
+	"a": "Informatica P7-P13",
+	"a2": "ingressoP_P7-P13"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica Laboratori(F)",
+	"da2": "LaboratoriF_ingressoF",
+	"a": "Informatica P14-P21",
+	"a2": "ingressoP_P14-P21"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P1-P2",
+	"da2": "P1-P2_ingressoP",
+	"a": "Informatica Studi(F)",
+	"a2": "ingressoF_StudiF"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P1-P2",
+	"da2": "P1-P2_ingressoP",
+	"a": "Informatica F1-F8",
+	"a2": "ingressoF_F1-F8"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P1-P2",
+	"da2": "P1-P2_ingressoP",
+	"a": "Informatica Laboratori(F)",
+	"a2": "ingressoF_LaboratoriF"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P3-P6",
+	"da2": "P3-P6_ingressoP",
+	"a": "Informatica Studi(F)",
+	"a2": "ingressoF_StudiF"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P3-P6",
+	"da2": "P3-P6_ingressoP",
+	"a": "Informatica F1-F8",
+	"a2": "ingressoF_F1-F8"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P3-P6",
+	"da2": "P3-P6_ingressoP",
+	"a": "Informatica Laboratori(F)",
+	"a2": "ingressoF_LaboratoriF"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P7-P13",
+	"da2": "P7-P13_ingressoP",
+	"a": "Informatica Studi(F)",
+	"a2": "ingressoF_StudiF"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P7-P13",
+	"da2": "P7-P13_ingressoP",
+	"a": "Informatica F1-F8",
+	"a2": "ingressoF_F1-F8"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P7-P13",
+	"da2": "P7-P13_ingressoP",
+	"a": "Informatica Laboratori(F)",
+	"a2": "ingressoF_LaboratoriF"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P14-P21",
+	"da2": "P14-P21_ingressoP",
+	"a": "Informatica Studi(F)",
+	"a2": "ingressoF_StudiF"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P14-P21",
+	"da2": "P14-P21_ingressoP",
+	"a": "Informatica F1-F8",
+	"a2": "ingressoF_F1-F8"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P14-P21",
+	"da2": "P14-P21_ingressoP",
+	"a": "Informatica Laboratori(F)",
+	"a2": "ingressoF_LaboratoriF"
+},
+{
+	"pathId": "path40",
+	"da": "Informatica Studi(F)",
+	"da2": "StudiF_ingressoF",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path40",
+	"da": "Informatica F1-F8",
+	"da2": "F1-F8_ingressoF",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path40",
+	"da": "Informatica Laboratori(F)",
+	"da2": "LaboratoriF_ingressoF",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path14",
+	"da": "Informatica Studi(F)",
+	"da2": "StudiF_ingressoF",
+	"a": "mensa"
+},
+{
+	"pathId": "path14",
+	"da": "Informatica F1-F8",
+	"da2": "F1-F8_ingressoF",
+	"a": "mensa"
+},
+{
+	"pathId": "path14",
+	"da": "Informatica Laboratori(F)",
+	"da2": "LaboratoriF_ingressoF",
+	"a": "mensa"
+},
+{
+	"pathId": "path24",
+	"da": "Informatica Studi(F)",
+	"da2": "StudiF_ingressoF",
+	"a": "residenze"
+},
+{
+	"pathId": "path24",
+	"da": "Informatica F1-F8",
+	"da2": "F1-F8_ingressoF",
+	"a": "residenze"
+},
+{
+	"pathId": "path24",
+	"da": "Informatica Laboratori(F)",
+	"da2": "LaboratoriF_ingressoF",
+	"a": "residenze"
+},
+{
+	"pathId": "path08",
+	"da": "Informatica Studi(F)",
+	"da2": "StudiF_ingressoF",
+	"a": "terminal bus"
+},
+{
+	"pathId": "path08",
+	"da": "Informatica F1-F8",
+	"da2": "F1-F8_ingressoF",
+	"a": "terminal bus"
+},
+{
+	"pathId": "path08",
+	"da": "Informatica Laboratori(F)",
+	"da2": "LaboratoriF_ingressoF",
+	"a": "terminal bus"
+},
+{
+	"pathId": "path39",
+	"da": "laboratorio h",
+	"a": "Informatica Studi(F)",
+	"a2": "ingressoF_StudiF"
+},
+{
+	"pathId": "path39",
+	"da": "laboratorio h",
+	"a": "Informatica F1-F8",
+	"a2": "ingressoF_F1-F8"
+},
+{
+	"pathId": "path39",
+	"da": "laboratorio h",
+	"a": "Informatica Laboratori(F)",
+	"a2": "ingressoF_LaboratoriF"
+},
+{
+	"pathId": "path13",
+	"da": "mensa",
+	"a": "Informatica Studi(F)",
+	"a2": "ingressoF_StudiF"
+},
+{
+	"pathId": "path13",
+	"da": "mensa",
+	"a": "Informatica F1-F8",
+	"a2": "ingressoF_F1-F8"
+},
+{
+	"pathId": "path13",
+	"da": "mensa",
+	"a": "Informatica Laboratori(F)",
+	"a2": "ingressoF_LaboratoriF"
+},
+{
+	"pathId": "path23",
+	"da": "residenze",
+	"a": "Informatica Studi(F)",
+	"a2": "ingressoF_StudiF"
+},
+{
+	"pathId": "path23",
+	"da": "residenze",
+	"a": "Informatica F1-F8",
+	"a2": "ingressoF_F1-F8"
+},
+{
+	"pathId": "path23",
+	"da": "residenze",
+	"a": "Informatica Laboratori(F)",
+	"a2": "ingressoF_LaboratoriF"
+},
+{
+	"pathId": "path07",
+	"da": "terminal bus",
+	"a": "Informatica Studi(F)",
+	"a2": "ingressoF_StudiF"
+},
+{
+	"pathId": "path07",
+	"da": "terminal bus",
+	"a": "Informatica F1-F8",
+	"a2": "ingressoF_F1-F8"
+},
+{
+	"pathId": "path07",
+	"da": "terminal bus",
+	"a": "Informatica Laboratori(F)",
+	"a2": "ingressoF_LaboratoriF"
+},
+{
+	"pathId": "path49",
+	"da": "terminal bus",
+	"a": "Informatica(P)"
+},
+{
+	"pathId": "path50",
+	"da": "Informatica(P)",
+	"a": "terminal bus"
+},
+{
+	"pathId": "path51",
+	"da": "mensa",
+	"a": "Informatica(P)"
+},
+{
+	"pathId": "path52",
+	"da": "Informatica(P)",
+	"a": "mensa"
+},
+{
+	"pathId": "path53",
+	"da": "residenze",
+	"a": "Informatica(P)"
+},
+{
+	"pathId": "path54",
+	"da": "Informatica(P)",
+	"a": "residenze"
+},
+{
+	"pathId": "path55",
+	"da": "laboratorio h",
+	"a": "Informatica(P)"
+},
+{
+	"pathId": "path56",
+	"da": "Informatica(P)",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path49",
+	"da": "terminal bus",
+	"a": "Informatica P1-P2",
+	"a2": "ingressoP_P1-P2"
+},
+{
+	"pathId": "path49",
+	"da": "terminal bus",
+	"a": "Informatica P3-P6",
+	"a2": "ingressoP_P3-P6"
+},
+{
+	"pathId": "path49",
+	"da": "terminal bus",
+	"a": "Informatica P7-P13",
+	"a2": "ingressoP_P7-P13"
+},
+{
+	"pathId": "path49",
+	"da": "terminal bus",
+	"a": "Informatica P14-P21",
+	"a2": "ingressoP_P14-P21"
+},
+{
+	"pathId": "path50",
+	"da": "informatica P1-P2",
+	"da2": "P1-P2_ingressoP",
+	"a": "terminal bus"
+},
+{
+	"pathId": "path50",
+	"da": "informatica P3-P6",
+	"da2": "P3-P6_ingressoP",
+	"a": "terminal bus"
+},
+{
+	"pathId": "path50",
+	"da": "informatica P7-P13",
+	"da2": "P7-P13_ingressoP",
+	"a": "terminal bus"
+},
+{
+	"pathId": "path50",
+	"da": "informatica P14-P21",
+	"da2": "P14-P21_ingressoP",
+	"a": "terminal bus"
+},
+{
+	"pathId": "path51",
+	"da": "mensa",
+	"a": "Informatica P1-P2",
+	"a2": "ingressoP_P1-P2"
+},
+{
+	"pathId": "path51",
+	"da": "mensa",
+	"a": "Informatica P3-P6",
+	"a2": "ingressoP_P3-P6"
+},
+{
+	"pathId": "path51",
+	"da": "mensa",
+	"a": "Informatica P7-P13",
+	"a2": "ingressoP_P7-P13"
+},
+{
+	"pathId": "path51",
+	"da": "mensa",
+	"a": "Informatica P14-P21",
+	"a2": "ingressoP_P14-P21"
+},
+{
+	"pathId": "path52",
+	"da": "informatica P1-P2",
+	"da2": "P1-P2_ingressoP",
+	"a": "mensa"
+},
+{
+	"pathId": "path52",
+	"da": "informatica P3-P6",
+	"da2": "P3-P6_ingressoP",
+	"a": "mensa"
+},
+{
+	"pathId": "path52",
+	"da": "informatica P7-P13",
+	"da2": "P7-P13_ingressoP",
+	"a": "mensa"
+},
+{
+	"pathId": "path52",
+	"da": "informatica P14-P21",
+	"da2": "P14-P21_ingressoP",
+	"a": "mensa"
+},
+{
+	"pathId": "path53",
+	"da": "residenze",
+	"a": "Informatica P1-P2",
+	"a2": "ingressoP_P1-P2"
+},
+{
+	"pathId": "path53",
+	"da": "residenze",
+	"a": "Informatica P3-P6",
+	"a2": "ingressoP_P3-P6"
+},
+{
+	"pathId": "path53",
+	"da": "residenze",
+	"a": "Informatica P7-P13",
+	"a2": "ingressoP_P7-P13"
+},
+{
+	"pathId": "path53",
+	"da": "residenze",
+	"a": "Informatica P14-P21",
+	"a2": "ingressoP_P14-P21"
+},
+{
+	"pathId": "path54",
+	"da": "informatica P1-P2",
+	"da2": "P1-P2_ingressoP",
+	"a": "residenze"
+},
+{
+	"pathId": "path54",
+	"da": "informatica P3-P6",
+	"da2": "P3-P6_ingressoP",
+	"a": "residenze"
+},
+{
+	"pathId": "path54",
+	"da": "informatica P7-P13",
+	"da2": "P7-P13_ingressoP",
+	"a": "residenze"
+},
+{
+	"pathId": "path54",
+	"da": "informatica P14-P21",
+	"da2": "P14-P21_ingressoP",
+	"a": "residenze"
+},
+{
+	"pathId": "path55",
+	"da": "laboratorio h",
+	"a": "Informatica P1-P2",
+	"a2": "ingressoP_P1-P2"
+},
+{
+	"pathId": "path55",
+	"da": "laboratorio h",
+	"a": "Informatica P3-P6",
+	"a2": "ingressoP_P3-P6"
+},
+{
+	"pathId": "path55",
+	"da": "laboratorio h",
+	"a": "Informatica P7-P13",
+	"a2": "ingressoP_P7-P13"
+},
+{
+	"pathId": "path55",
+	"da": "laboratorio h",
+	"a": "Informatica P14-P21",
+	"a2": "ingressoP_P14-P21"
+},
+{
+	"pathId": "path56",
+	"da": "informatica P1-P2",
+	"da2": "P1-P2_ingressoP",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path56",
+	"da": "informatica P3-P6",
+	"da2": "P3-P6_ingressoP",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path56",
+	"da": "informatica P7-P13",
+	"da2": "P7-P13_ingressoP",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path56",
+	"da": "informatica P14-P21",
+	"da2": "P14-P21_ingressoP",
+	"a": "laboratorio h"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica(F)",
+	"a": "Informatica P1-P2",
+	"a2": "ingressoP_P1-P2"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica(F)",
+	"a": "Informatica P3-P6",
+	"a2": "ingressoP_P3-P6"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica(F)",
+	"a": "Informatica P7-P13",
+	"a2": "ingressoP_P7-P13"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica(F)",
+	"a": "Informatica P14-P21",
+	"a2": "ingressoP_P14-P21"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica(P)",
+	"a": "Informatica Studi(F)",
+	"a2": "ingressoF_StudiF"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica(P)",
+	"a": "Informatica F1-F8",
+	"a2": "ingressoF_F1-F8"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica(P)",
+	"a": "Informatica Laboratori(F)",
+	"a2": "ingressoF_LaboratoriF"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P1-P2",
+	"da2": "P1-P2_ingressoP",
+	"a": "Informatica(F)"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P3-P6",
+	"da2": "P3-P6_ingressoP",
+	"a": "Informatica(F)"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P7-P13",
+	"da2": "P7-P13_ingressoP",
+	"a": "Informatica(F)"
+},
+{
+	"pathId": "path48",
+	"da": "Informatica P14-P21",
+	"da2": "P14-P21_ingressoP",
+	"a": "Informatica(F)"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica Studi(F)",
+	"da2": "StudiF_ingressoF",
+	"a": "Informatica(P)"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica F1-F8",
+	"da2": "F1-F8_ingressoF",
+	"a": "Informatica(P)"
+},
+{
+	"pathId": "path47",
+	"da": "Informatica Laboratori(F)",
+	"da2": "LaboratoriF_ingressoF",
+	"a": "Informatica(P)"
+}]

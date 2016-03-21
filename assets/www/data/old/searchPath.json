@@ -1,0 +1,276 @@
+[{
+	"pathId": "path01",
+	"da": "polo sportivo",
+	"a": "ingegneria",
+	"tags": ""
+},
+{
+	"pathId": "path02",
+	"da": "ingegneria",
+	"a": "polo sportivo",
+	"tags": ""
+},
+{
+	"pathId": "path03",
+	"da": "terminal bus",
+	"a": "economia",
+	"tags": ""
+},
+{
+	"pathId": "path04",
+	"da": "economia",
+	"a": "terminal bus",
+	"tags": ""
+},
+{
+	"pathId": "path05",
+	"da": "terminal bus",
+	"a": "giurisprudenza",
+	"tags": ""
+},
+{
+	"pathId": "path06",
+	"da": "giurisprudenza",
+	"a": "terminal bus",
+	"tags": ""
+},
+{
+	"pathId": "path07",
+	"da": "terminal bus",
+	"a": "informatica",
+	"tags": "p1 p2 p3 p4 p5 f1 f2 f3 f4 f4 segreteria"
+},
+{
+	"pathId": "path08",
+	"da": "informatica",
+	"a": "terminal bus",
+	"tags": "p1 p2 p3 p4 p5 f1 f2 f3 f4 f4 segreteria"
+},
+{
+	"pathId": "path09",
+	"da": "terminal bus",
+	"a": "ingegneria",
+	"tags": ""
+},
+{
+	"pathId": "path10",
+	"da": "ingegneria",
+	"a": "terminal bus",
+	"tags": ""
+},
+{
+	"pathId": "path11",
+	"da": "mensa",
+	"a": "giurisprudenza",
+	"tags": ""
+},
+{
+	"pathId": "path12",
+	"da": "giurisprudenza",
+	"a": "mensa",
+	"tags": ""
+},
+{
+	"pathId": "path13",
+	"da": "mensa",
+	"a": "informatica",
+	"tags": ""
+},
+{
+	"pathId": "path14",
+	"da": "informatica",
+	"a": "mensa",
+	"tags": ""
+},
+{
+	"pathId": "path15",
+	"da": "mensa",
+	"a": "ingegneria",
+	"tags": ""
+},
+{
+	"pathId": "path16",
+	"da": "ingegneria",
+	"a": "mensa",
+	"tags": ""
+},
+{
+	"pathId": "path17",
+	"da": "residenze",
+	"a": "economia",
+	"tags": ""
+},
+{
+	"pathId": "path18",
+	"da": "economia",
+	"a": "residenze",
+	"tags": ""
+},
+{
+	"pathId": "path19",
+	"da": "residenze",
+	"a": "giurisprudenza",
+	"tags": ""
+},
+{
+	"pathId": "path20",
+	"da": "giurisprudenza",
+	"a": "residenze",
+	"tags": ""
+},
+{
+	"pathId": "path21",
+	"da": "residenze",
+	"a": "ingegneria",
+	"tags": ""
+},
+{
+	"pathId": "path22",
+	"da": "ingegneria",
+	"a": "residenze",
+	"tags": ""
+},
+{
+	"pathId": "path23",
+	"da": "residenze",
+	"a": "informatica",
+	"tags": ""
+},
+{
+	"pathId": "path24",
+	"da": "informatica",
+	"a": "residenze",
+	"tags": ""
+},
+{
+	"pathId": "path25",
+	"da": "laboratorio h",
+	"a": "lingue",
+	"tags": ""
+},
+{
+	"pathId": "path26",
+	"da": "lingue",
+	"a": "laboratorio h",
+	"tags": ""
+},
+{
+	"pathId": "path27",
+	"da": "laboratorio h",
+	"a": "scienze della formazione",
+	"tags": ""
+},
+{
+	"pathId": "path28",
+	"da": "scienze della formazione",
+	"a": "laboratorio h",
+	"tags": ""
+},
+{
+	"pathId": "path29",
+	"da": "laboratorio h",
+	"a": "residenze",
+	"tags": ""
+},
+{
+	"pathId": "path30",
+	"da": "residenze",
+	"a": "laboratorio h",
+	"tags": ""
+},
+{
+	"pathId": "path31",
+	"da": "laboratorio h",
+	"a": "farmacia",
+	"tags": ""
+},
+{
+	"pathId": "path32",
+	"da": "farmacia",
+	"a": "laboratorio h",
+	"tags": ""
+},
+{
+	"pathId": "path33",
+	"da": "laboratorio h",
+	"a": "polo sportivo",
+	"tags": ""
+},
+{
+	"pathId": "path34",
+	"da": "polo sportivo",
+	"a": "laboratorio h",
+	"tags": ""
+},
+{
+	"pathId": "path35",
+	"da": "laboratorio h",
+	"a": "economia",
+	"tags": ""
+},
+{
+	"pathId": "path36",
+	"da": "economia",
+	"a": "laboratorio h",
+	"tags": ""
+},
+{
+	"pathId": "path37",
+	"da": "laboratorio h",
+	"a": "giurisprudenza",
+	"tags": ""
+},
+{
+	"pathId": "path38",
+	"da": "giurisprudenza",
+	"a": "laboratorio h",
+	"tags": ""
+},
+{
+	"pathId": "path39",
+	"da": "laboratorio h",
+	"a": "informatica",
+	"tags": ""
+},
+{
+	"pathId": "path40",
+	"da": "informatica",
+	"a": "laboratorio h",
+	"tags": ""
+},
+{
+	"pathId": "path41",
+	"da": "laboratorio h",
+	"a": "ingegneria",
+	"tags": ""
+},
+{
+	"pathId": "path42",
+	"da": "ingegneria",
+	"a": "laboratorio h",
+	"tags": ""
+},
+{
+	"pathId": "path43",
+	"da": "laboratorio h",
+	"a": "terminal bus",
+	"tags": ""
+},
+{
+	"pathId": "path44",
+	"da": "terminal bus",
+	"a": "laboratorio h",
+	"tags": ""
+},
+{
+	"pathId": "path45",
+	"da": "laboratorio h",
+	"a": "mensa",
+	"tags": ""
+},
+{
+	"pathId": "path46",
+	"da": "mensa",
+	"a": "laboratorio h",
+	"tags": ""
+}]

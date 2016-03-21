@@ -1,0 +1,36 @@
+{	
+	"tipo":"sport",	
+	"icona":"svg/sportMarker.svg",
+	"lista":[
+		{
+			"nome":"Piscina semiolimpica",
+			"lat":40.772136,
+			"lon":14.787384
+		},
+		{
+			"nome":"Campo di tennis 1",
+			"lat":40.771530,
+			"lon":14.787720
+		},
+		{
+			"nome":"Campo di tennis 2",
+			"lat":40.769826,
+			"lon":14.788108
+		},
+		{
+			"nome":"Campo di calcio 1",
+			"lat":40.771149,
+			"lon":14.787929
+		},
+		{
+			"nome":"Campo di calcio 2",
+			"lat":40.770684,
+			"lon":14.788267
+		},
+		{
+			"nome":"Centro Universitario Sportivo",
+			"lat": 40.770514,
+			"lon": 14.787551
+		}
+	]
+}

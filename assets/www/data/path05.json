@@ -1,0 +1,83 @@
+{
+	"pathId": "path05",
+	"percorso": "<ul><li> <img src='png/start.png'> &nbsp; 1. Scendere dal Terminal</li><li> <img src='png/camminare.png'> &nbsp; 2. Superare l'area di sosta</li><li> <img src='png/dx.png'> &nbsp; 3. Girare a DESTRA</li><li> <img src='png/incrocio.png'> &nbsp; 4. Percorrere la discesa fino al secondo incrocio</li><li> <img src='png/sx.png'> &nbsp; 5. Girare a SINISTRA</li><li> <img src='png/tettoia.png'> &nbsp; 6. Proseguire sotto la tettoia a DESTRA</li><li> <img src='png/dritto.png'> &nbsp; 7. Percorrere tutto il porticato fino all'edificio dell&#39;Aula delle Lauree</li><li> <img src='png/dx.png'> &nbsp; 8. Girare a DESTRA</li><li> <img src='png/dritto.png'> &nbsp; 9. Camminare lungo la rampa</li><li> <img src='png/dritto.png'> &nbsp; 10. Percorrere il porticato fino all'ultimo ingresso di Giurisprudenza</li><li> <img src='png/dx.png'> &nbsp; 11. Girare a DESTRA</li><li> <img src='png/entrata.png'> &nbsp; 12. Entrare nell'edificio di Giurisprudenza</li><li> <img src='png/arrivo.png'> &nbsp; 13. Arrivo al punto di incontro di Giurisprudenza</li></ul>",
+	"lista": [{
+		"index": 0,
+		"lat": 40.773798,
+		"lon": 14.793520
+	},
+	{
+		"lat": 40.773798,
+		"lon": 14.793419
+	},
+	{
+		"lat": 40.773589,
+		"lon": 14.793339
+	},
+	{
+		"index": 1,
+		"lat": 40.773669,
+		"lon": 14.792872
+	},
+	{
+		"index": 2,
+		"lat": 40.773235,
+		"lon": 14.793164
+	},
+	{
+		"index": 3,
+		"lat": 40.772809,
+		"lon": 14.792190
+	},
+	{
+		"index": 4
+	},
+	{
+		"lat": 40.772582,
+		"lon": 14.792360
+	},
+	{
+		"lat": 40.772353,
+		"lon": 14.792275
+	},
+	{
+		"index": 5,
+		"lat": 40.772240,
+		"lon": 14.792364
+	},
+	{
+		"lat": 40.772201,
+		"lon": 14.792279
+	},
+	{
+		"index": 6,
+		"lat": 40.770603,
+		"lon": 14.793382
+	},
+	{
+		"index": 7
+	},
+	{
+		"index": 8,
+		"lat": 40.770525,
+		"lon": 14.793190
+	},
+	{
+		"index": 9,
+		"lat": 40.769860,
+		"lon": 14.793683
+	},
+	{
+		"index": 10
+	},
+	{
+		"index": 11,
+		"lat": 40.769799,
+		"lon": 14.793540
+	},
+	{
+		"index": 12,
+		"lat": 40.769799,
+		"lon": 14.793540
+	}]
+}

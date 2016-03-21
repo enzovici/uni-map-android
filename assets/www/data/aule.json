@@ -1,0 +1,26 @@
+{	
+	"tipo":"aule",	
+	"icona":"svg/auleMarker.svg",
+	"lista":[
+		{
+			"nome":"Aula Magna &#34;Vincenzo Buonocore&#34;",
+			"lat":40.769588,
+			"lon":14.792276
+		},
+		{
+			"nome":"Aula Multimediale C.S.I.",
+			"lat":40.768526,
+			"lon":14.791681
+		},
+		{
+			"nome":"Aula delle Lauree Ingegneria",
+			"lat":40.772762,
+			"lon":14.790035
+		},
+		{
+			"nome":"Aula Nicola Cilento",
+			"lat":40.770611,
+			"lon":14.793619
+		}
+	]
+}

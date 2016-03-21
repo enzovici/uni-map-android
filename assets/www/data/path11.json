@@ -1,0 +1,87 @@
+{
+"pathId": "path11",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Dalla mensa prendere l&#39;uscita (frontale al terminal) e scendere lungo il vialetto</li><li> <img src='png/sx.png'> &nbsp; 2. Girare a SINISTRA</li><li> <img src='png/incrocio.png'> &nbsp; 3. Percorrere la discesa fino al secondo incrocio</li><li> <img src='png/sx.png'> &nbsp; 4. Girare a SINISTRA</li><li> <img src='png/tettoia.png'> &nbsp; 5. Proseguire sotto la tettoia a DESTRA</li><li> <img src='png/dritto.png'> &nbsp; 6. Percorrere tutto il porticato fino all&#39;edificio dell&#39;Aula delle Lauree</li><li> <img src='png/dx.png'> &nbsp; 7. Girare a DESTRA</li><li> <img src='png/dritto.png'> &nbsp; 8. Camminare lungo la rampa</li><li> <img src='png/dritto.png'> &nbsp; 9. Percorrere il porticato fino all&#39;ultimo ingresso di Giurisprudenza</li><li> <img src='png/dx.png'> &nbsp; 10. Girare a DESTRA</li><li> <img src='png/entrata.png'> &nbsp; 11. Entrare nell&#39;edificio di Giurisprudenza</li><li> <img src='png/arrivo.png'> &nbsp; 12. Arrivo al punto di incontro di Giurisprudenza</li></ul>", 
+"lista": [{
+	"lat": 40.772867,
+	"lon": 14.793504
+},
+{
+	"lat": 40.772827,
+	"lon": 14.793413
+},
+{
+	"lat": 40.773164,
+	"lon": 14.793171
+},
+{
+	"lat": 40.773382,
+	"lon": 14.793682
+},
+{
+	"index": 0,
+	"lat":40.773197,
+	"lon": 14.793816
+},
+{
+	"index": 1,
+	"lat": 40.773448,
+	"lon": 14.793680
+},
+{
+	"index": 2,
+	"lat": 40.772809,
+	"lon": 14.792190
+},
+{
+	"index": 3
+},
+{
+	"lat": 40.772582,
+	"lon": 14.792360
+},
+{
+	"lat":40.772353,
+	"lon": 14.792275
+},
+{
+	"index": 4,
+	"lat": 40.772240,
+	"lon":14.792364
+},
+{
+	"lat":40.772201,
+	"lon":14.792279
+},
+{
+	"index": 5,
+	"lat":40.770603,
+	"lon":14.793382
+},
+{
+	"index": 6
+},
+{
+	"index": 7,
+	"lat":40.770525,
+	"lon":14.793190
+},
+{
+	"index": 8,
+	"lat":40.769860,
+	"lon":14.793683
+},
+{
+	"index": 9
+},
+{
+	"index": 10,
+	"lat":40.769799,
+	"lon":14.793540
+},
+{
+	"index": 11,
+	"lat":40.769799,
+	"lon":14.793540
+}
+
+]}

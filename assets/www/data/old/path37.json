@@ -1,0 +1,52 @@
+{
+"pathId": "path37",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Laboratorio H</li><li> <img src='png/dx.png'> &nbsp; 2. Girare a DESTRA e percorrere il corridoio finchè non si raggiunge l&#39;uscita dal rettorato</li><li> <img src='png/uscita.png'> &nbsp; 3. Uscire dal Rettorato</li><li> <img src='png/dx.png'> &nbsp; 4. Girare a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 5. Dirigersi fino alla fine del viale</li><li> <img src='png/sx.png'> &nbsp; 6. Girare a SINISTRA</li><li> <img src='png/dritto.png'> &nbsp; 7. Proseguire dritto</li><li> <img src='png/dx.png'> &nbsp; 8. Svoltare alla prima a DESTRA</li><li> <img src='png/dritto.png'> &nbsp; 9. Proseguire dritto</li><li> <img src='png/salita.png'> &nbsp; 10. Imboccare la rampa a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 11. Costeggiare l&#96;edificio verso destra fino all&#39;ascensore</li><li> <img src='png/ascensore.png'> &nbsp; 12. Prendere l&#39;ascensore (Tasto: 1)</li><li> <img src='png/entrata.png'> &nbsp; 13. Entrare nella Ex Facoltà di Giurisprudenza attraverso l&#39;ingresso situato sulla DESTRA</li> 	<li> <img src='png/dritto.png'> &nbsp; 14. Proseguire dritto</li><li> <img src='png/uscita.png'> &nbsp; 15. Uscire dall&#96;Ex Facoltà di Giurisprudenza</li> <li> <img src='png/sx.png'> &nbsp; 16. Girare a SINISTRA</li><li> <img src='png/dritto.png'> &nbsp; 17. Proseguire dritto</li><li> <img src='png/entrata.png'> &nbsp; 18. Entrare nella Facoltà di Giurisprudenza</li><li> <img src='png/arrivo.png'> &nbsp; 19. Sulla destra si trova il punto di incontro</li></ul>", 
+"lista": [{
+	"lat": 40.768944,
+	"lon": 14.791878
+},
+{
+	"lat": 40.769069,
+	"lon": 14.791780
+},
+{
+	"lat": 40.769461,
+	"lon": 14.792775
+},
+{
+	"lat": 40.769669,
+	"lon": 14.792624
+},
+{
+	"lat": 40.769815,
+	"lon": 14.792996
+},
+{
+	"lat": 40.769634,
+	"lon": 14.793211
+},
+{
+	"lat": 40.769561,
+	"lon": 14.793051
+},
+{
+	"lat": 40.769413,
+	"lon": 14.793158
+},
+{
+	"lat": 40.769376,
+	"lon": 14.793281
+},
+{
+	"lat": 40.769490,
+	"lon": 14.793509
+},
+{
+	"lat": 40.769638,
+	"lon": 14.793405
+},
+{
+	"lat": 40.769830,
+	"lon": 14.793535
+}
+]}

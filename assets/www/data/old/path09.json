@@ -1,0 +1,36 @@
+{
+"pathId": "path09",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Punto di incontro Terminal</li><li> <img src='png/camminare.png'> &nbsp; 2. Superare l&#39;area di sosta</li><li> <img src='png/dx.png'> &nbsp; 3. Girare a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 4. Camminare mantenendo sulla destra il parcheggio e alla sinistra la mensa</li><li> <img src='png/discesa.png'> &nbsp; 5. Percorrere la discesa in direzione ingegneria</li><li> <img src='png/entrata.png'> &nbsp; 6. l&#39;ingresso di ingegneria lo troveremo di fronte</li><li> <img src='png/arrivo.png'> &nbsp; 7. Arrivo al punto di incontro di Ingegneria (sopra il bar)</li></ul>",
+"lista": [{
+	"lat": 40.773798,
+	"lon": 14.793520
+},
+{
+	"lat": 40.773798,
+	"lon": 14.793419
+},
+{
+	"lat": 40.773589,
+	"lon": 14.793339
+},
+{
+	"lat": 40.773669,
+	"lon": 14.792872
+},
+{
+	"lat":40.773235,
+	"lon": 14.793164
+},
+{
+	"lat": 40.772538,
+	"lon": 14.791515
+},
+{
+	"lat": 40.772367,
+	"lon": 14.791447
+},
+{
+	"lat": 40.772287,
+	"lon": 14.791237
+}
+]}

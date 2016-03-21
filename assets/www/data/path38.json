@@ -1,0 +1,93 @@
+{
+"pathId": "path38",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Info-Desk di Giurisprudenza</li><li> <img src='png/uscita.png'> &nbsp; 2. Uscire tramite la porta situata sulla sinistra in direzione della Ex Facoltà di Giurisprudenza</li><li> <img src='png/dritto.png'> &nbsp; 3. Proseguire dritto</li><li> <img src='png/dx.png'> &nbsp; 4. Girare a DESTRA</li><li> <img src='png/entrata.png'> &nbsp; 5. Entra nell&#39;Ex Facoltà di Giurisprudenza</li> <li> <img src='png/dritto.png'> &nbsp; 6. Proseguire dritto</li><li> <img src='png/uscita.png'> &nbsp; 7. Uscire dall&#39;Ex Facoltà di Giurisprudenza</li><li> <img src='png/ascensore.png'> &nbsp; 8. Prendere l&#39;ascensore (Tasto: 0)</li><li> <img src='png/camminare.png'> &nbsp; 9. Costeggiare l&#39;edificio verso sinistra fino alla rampa</li><li> <img src='png/discesa.png'> &nbsp; 10. Imboccare la rampa</li><li> <img src='png/dx.png'> &nbsp; 11. Girare a SINISTRA</li><li> <img src='png/camminare.png'> &nbsp; 12. Dirigersi fino alla fine del viale</li><li> <img src='png/sx.png'> &nbsp; 13. Girare a SINISTRA</li><li> <img src='png/dritto.png'> &nbsp; 14. Camminare dritto</li><li> <img src='png/dx.png'> &nbsp; 15. Girare alla prima a DESTRA</li><li> <img src='png/dritto.png'> &nbsp; 16. Proseguire dritto fino al Rettorato</li><li> <img src='png/entrata.png'> &nbsp; 17. Entrare all&#39;interno del plesso del rettorato e dirigersi verso la sezione R8-Rettorato</li><li> <img src='png/dritto.png'> &nbsp; 18. Mantenere la sinistra e proseguire dritto lasciando sulla destra una rampa di scale</li><li> <img src='png/camminare.png'> &nbsp; 19. Entrare nel corridoio e percorrerlo finche non si raggiunge un atrio, il laboratorio si trova di fronte all&#39;uscita di emergenza</li><li> <img src='png/arrivo.png'> &nbsp; 20. Arrivo al laboratorio H</li></ul>", 
+"lista": [
+{
+	"index": 0,
+	"lat": 40.769671,
+	"lon": 14.793596
+},
+{
+	"index": 1,
+	"lat": 40.769593,
+	"lon": 14.793412
+},
+{
+	"index": 2,
+	"lat": 40.769360,
+	"lon": 14.793494
+},
+{
+	"index": 3
+},
+{
+	"index": 4
+},
+{
+	"index": 5,
+	"lat": 40.769269,
+	"lon": 14.793289
+},
+{
+	"index": 6
+},
+{
+	"index": 7,
+	"lat": 40.769387,
+	"lon": 14.793133
+},
+{
+	"lat": 40.769517,
+	"lon": 14.793037
+},
+{
+	"index": 8,
+	"lat": 40.769587,
+	"lon": 14.793226
+},
+{
+	"index": 9
+},
+{
+	"index": 10,
+	"lat": 40.769815,
+	"lon": 14.792996
+},
+{
+	"index": 11,
+	"lat": 40.769669,
+	"lon": 14.792624
+},
+{
+	"index": 12
+},
+{
+	"index": 13,
+	"lat": 40.769461,
+	"lon": 14.792775
+},
+{
+	"index": 14
+},
+{
+	"index": 15,
+	"lat": 40.769069,
+	"lon": 14.791780
+},
+{
+	"index": 16,
+	"lat": 40.768944,
+	"lon": 14.791878
+},
+{
+	"index": 17
+},
+{
+	"index": 18
+},
+{
+	"index": 19,
+	"lat": 40.768944,
+	"lon": 14.791878
+}
+]}

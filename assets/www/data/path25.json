@@ -1,0 +1,66 @@
+{
+"pathId": "path25",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Laboratorio H</li><li> <img src='png/dx.png'> &nbsp; 2. Girare a DESTRA e percorrere il corridoio finchè non si raggiunge l&#39;uscita dal rettorato</li><li> <img src='png/uscita.png'> &nbsp; 3. Uscire dal Rettorato</li><li> <img src='png/dx.png'> &nbsp; 4. Girare a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 5. Dirigersi fino alla fine del viale</li><li> <img src='png/sx.png'> &nbsp; 6. Girare a SINISTRA</li><li> <img src='png/salita.png'> &nbsp; 7. Proseguire fino alla rampa</li><li> <img src='png/camminare.png'> &nbsp; 8. Attraversare la piazza </li><li> <img src='png/fontana.png'> &nbsp; 9. Costeggiare la fontana alla propria SINISTRA</li><li> <img src='png/entrata.png'> &nbsp; 10. Entrare nel plesso di lingue, l&#39;ingresso è situato alla vostra sinistra</li><li> <img src='png/camminare.png'> &nbsp; 11. Proseguire nel corridoio</li><li> <img src='png/arrivo.png'> &nbsp; 12. Arrivo al punto di incontro</li></ul>", 
+"lista": [{
+	"index": 0,
+	"lat": 40.768944,
+	"lon": 14.791878
+},
+{
+	"index": 1,
+	"lat": 40.769069,
+	"lon": 14.791780
+},
+{
+	"index": 2
+},
+{
+	"index": 3
+},
+{
+	"index": 4,
+	"lat": 40.769461,
+	"lon": 14.792775
+},
+{
+	"index": 5
+},
+{
+	"index": 6,
+	"lat": 40.770073,
+	"lon": 14.792264
+},
+{
+	"lat": 40.770392,
+	"lon": 14.792156
+},
+{
+	"index": 7,
+	"lat": 40.770833,
+	"lon": 14.791806
+},
+{
+	"lat": 40.770955,
+	"lon": 14.792087
+},
+{
+	"index": 8,
+	"lat": 40.771182,
+	"lon": 14.791824
+},
+{
+	"index": 9,
+	"lat": 40.771380,
+	"lon": 14.791682
+},
+{
+	"index": 10,
+	"lat": 40.771348,
+	"lon": 14.791586
+},
+{
+	"index": 11,
+	"lat": 40.771572,
+	"lon": 14.791411
+}
+]}

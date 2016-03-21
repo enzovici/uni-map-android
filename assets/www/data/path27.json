@@ -1,0 +1,83 @@
+{
+	"pathId": "path27",
+	"percorso": "<ul><li> <img src='png/start.png'> &nbsp; 1. Laboratorio H</li><li> <img src='png/dx.png'> &nbsp; 2. Girare a DESTRA e percorrere il corridoio finchè non si raggiunge l&#39;uscita dal rettorato</li><li> <img src='png/uscita.png'> &nbsp; 3. Uscire dal Rettorato</li><li> <img src='png/dx.png'> &nbsp; 4. Girare a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 5. Dirigersi fino alla fine del viale</li><li> <img src='png/sx.png'> &nbsp; 6. Girare a SINISTRA</li><li> <img src='png/salita.png'> &nbsp; 7. Proseguire fino alla rampa</li><li> <img src='png/camminare.png'> &nbsp; 8. Attraversare la piazza </li><li> <img src='png/fontana.png'> &nbsp; 9. Costeggiare la fontana alla propria SINISTRA</li><li> <img src='png/entrata.png'> &nbsp; 10. Entrare nel plesso di economia, l&#39;ingresso è situato alla vostra destra</li><li> <img src='png/ascensore.png'> &nbsp; 11. Dirigersi verso l&#39;ascensore che si trova sulla sinistra (Tasto: 1)</li><li> <img src='png/sx.png'> &nbsp; 12. Girare a SINISTRA</li><li> <img src='png/camminare.png'> &nbsp; 13. Percorrere il ponte che collega i due plessi di economia</li><li> <img src='png/camminare.png'> &nbsp; 14. Proseguire in direzione dei distributori </li><li> <img src='png/sx.png'> &nbsp; 15. Girare a SINISTRA </li><li> <img src='png/camminare.png'> &nbsp; 16. Attraversare tutto il corridoio </li><li> <img src='png/arrivo.png'> &nbsp; 17. Arrivo al punto d&#39;incontro di scienze della formazione </li></ul>",
+	"lista": [{
+		"index": 0,
+		"lat": 40.768944,
+		"lon": 14.791878
+	},
+	{
+		"index": 1,
+		"lat": 40.769069,
+		"lon": 14.791780
+	},
+	{
+		"index": 2
+	},
+	{
+		"index": 3
+	},
+	{
+		"index": 4,
+		"lat": 40.769461,
+		"lon": 14.792775
+	},
+	{
+		"index": 5
+	},
+	{
+		"index": 6,
+		"lat": 40.770073,
+		"lon": 14.792264
+	},
+	{
+		"lat": 40.770392,
+		"lon": 14.792156
+	},
+	{
+		"index": 7,
+		"lat": 40.770833,
+		"lon": 14.791806
+	},
+	{
+		"lat": 40.770955,
+		"lon": 14.792087
+	},
+	{
+		"index": 8,
+		"lat": 40.771254,
+		"lon": 14.791883
+	},
+	{
+		"index": 9,
+		"lat": 40.771334,
+		"lon": 14.792049
+	},
+	{
+		"index": 10
+	},
+	{
+		"index": 11
+	},
+	{
+		"index": 12,
+		"lat": 40.771533,
+		"lon": 14.792531
+	},
+	{
+		"index": 13
+	},
+	{
+		"index": 14
+	},
+	{
+		"index": 15,
+		"lat": 40.771962,
+		"lon": 14.792244
+	},
+	{
+		"index": 16,
+		"lat": 40.771962,
+		"lon": 14.792244
+	}]
+}

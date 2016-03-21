@@ -1,0 +1,11 @@
+{	
+	"tipo":"uffici",	
+	"icona":"png/icone/servizi/Uffici.png",
+	"lista":[
+		{
+			"nome":"diritto allo studio",
+			"lat":40.768517,
+			"lon":14.791699
+		}
+	]
+}

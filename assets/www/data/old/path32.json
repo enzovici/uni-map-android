@@ -1,0 +1,88 @@
+{
+"pathId": "path32",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Farmacia</li><li> <img src='png/ascensore.png'> &nbsp; 2. Prendere l&#39;ascensore (Tasto: 1)</li><li> <img src='png/sx.png'> &nbsp; 3. Girare a SINISTRA</li><li> <img src='png/uscita.png'> &nbsp; 4. Uscire dall&#39;edificio e mantenere la SINISTRA</li><li> <img src='png/camminare.png'> &nbsp; 5. Attraversare il ponte di ferro</li><li> <img src='png/uscita.png'> &nbsp; 6. Uscire dall&#39;edificio attraversando le porte a vetri</li><li> <img src='png/dx.png'> &nbsp; 7. Girare a DESTRA</li>	<li> <img src='png/camminare.png'> &nbsp; 8. Proseguire sotto il porticato dell&#39;edificio</li><li> <img src='png/entrata.png'> &nbsp; 9. Dopo circa <span>50m</span> entrare nel plesso di ingegneria</li><li> <img src='png/ascensore.png'> &nbsp; 10. Utilizzare l&#39;ascensore sulla destra (Tasto: 0)</li><li> <img src='png/bar.png'> &nbsp; 11. Percorrere tutto il corridoio di ingegneria fino a giungere all&#39;area bar</li>	<li> <img src='png/uscita.png'> &nbsp; 12. Imboccare l&#39;uscita a SINISTRA</li><li> <img src='png/dx.png'> &nbsp; 13. All&#96;uscita svoltare a destra nei pressi della strada</li><li> <img src='png/dritto.png'> &nbsp; 14. Proseguire per <span>500m</span></li><li> <img src='png/fontana.png'> &nbsp; 15. Costeggiare la fontana alla propria DESTRA</li>	<li> <img src='png/camminare.png'> &nbsp; 16. Attraversare la piazza </li><li> <img src='png/discesa.png'> &nbsp; 17. Proseguire fino alla rampa</li><li> <img src='png/dritto.png'> &nbsp; 18. Proseguire dritto</li><li> <img src='png/incrocio.png'> &nbsp; 19. Dirigersi fino al terzo incrocio (dopo il teatro dell&#39;Ateneo)</li><li> <img src='png/dx.png'> &nbsp; 20. Girare a DESTRA</li><li> <img src='png/dritto.png'> &nbsp; 21. Proseguire dritto fino al Rettorato</li><li> <img src='png/entrata.png'> &nbsp; 22. Entrare all&#39;interno del plesso del rettorato e dirigersi verso la sezione R8-Rettorato</li><li> <img src='png/dritto.png'> &nbsp; 23. Mantenere la sinistra e proseguire dritto lasciando sulla destra una rampa di scale	</li><li> <img src='png/camminare.png'> &nbsp; 24. Entrare nel corridoio e percorrerlo finche non si raggiunge un atrio, il laboratorio si trova dirimpetto all&#39;uscita di emergenza</li><li> <img src='png/arrivo.png'> &nbsp; 25. Arrivo al laboratorio H</li></ul>", 
+"lista": [{
+	"lat": 40.773748,
+	"lon": 14.788878
+},
+{
+	"lat": 40.773631,
+	"lon": 14.788976
+},
+{
+	"lat": 40.773635,
+	"lon": 14.789134
+},
+{
+	"lat": 40.773789,
+	"lon": 14.789017
+},
+{
+	"lat": 40.773927,
+	"lon": 14.789479
+},
+{
+	"lat": 40.773676,
+	"lon": 14.789654
+},
+{
+	"lat": 40.773768,
+	"lon": 14.789893
+},
+{
+	"lat": 40.773573,
+	"lon": 14.789981
+},
+{
+	"lat": 40.773648,
+	"lon": 14.790193
+},
+{
+	"lat": 40.772287,
+	"lon": 14.791237
+},
+{
+	"lat": 40.772367,
+	"lon": 14.791447
+},
+{
+	"lat": 40.772455,
+	"lon": 14.791619
+},
+{
+	"lat": 40.772128,
+	"lon": 14.791877
+},
+{
+	"lat": 40.771468,
+	"lon": 14.791726
+},
+{
+	"lat": 40.770955,
+	"lon": 14.792087
+},
+{
+	"lat": 40.770833,
+	"lon": 14.791806
+},
+{
+	"lat": 40.770392,
+	"lon": 14.792156
+},
+{
+	"lat": 40.770073,
+	"lon": 14.792264
+},
+{
+	"lat": 40.769461,
+	"lon": 14.792775
+},
+{
+	"lat": 40.769069,
+	"lon": 14.791780
+},
+{
+	"lat": 40.768944,
+	"lon": 14.791878
+}
+]}

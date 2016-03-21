@@ -1,0 +1,126 @@
+{	
+	"tipo":"servizi",	
+	"icona":"svg/serviziMarker.svg",
+	"lista":[
+		{
+			"nome":"Osservatorio",
+			"lat":40.773436,
+			"lon":14.786421
+		},
+		{
+			"nome":"Fondazione UNISA",
+			"lat":40.774132,
+			"lon":14.790922
+		},
+		{
+			"nome":" Ufficio Diritto allo Studio",
+			"lat":40.768472,
+			"lon":14.791761
+		},
+		{
+			"nome":"Ufficio ERASMUS",
+			"lat":40.770125,
+			"lon":14.792766
+		},
+		{
+			"nome":"Ufficio Relazioni",
+			"lat":40.770154,
+			"lon":14.792392
+		},
+		{
+			"nome":"Polizia",
+			"lat":40.769053,
+			"lon":14.789569
+		},
+		{
+			"nome":"CAOT",
+			"lat":40.768634,
+			"lon":14.792304
+		},
+		{
+			"nome":"Biblioteca Scientifica",
+			"lat":40.772715,
+			"lon":14.788738
+		},
+		{
+			"nome":"Biblioteca Umanistica",
+			"lat":40.769139,
+			"lon":14.791100
+		},
+		{
+			"nome":"Centro Stampa Ateneo",
+			"lat":40.770316,
+			"lon":14.791992
+		},
+		{
+			"nome":"Mensa",
+			"lat":40.772610,
+			"lon":14.793688
+		},
+		{
+			"nome":"Presidio Sanitario",
+			"lat":40.769057,
+			"lon":14.789573
+		},
+		{
+			"nome":"Cappella",
+			"lat":40.771568,
+			"lon":14.790704
+		},
+		{
+			"nome":"Residenze",
+			"lat":40.771838,
+			"lon":14.795110
+		},
+		{
+			"nome":"Teatro",
+			"lat":40.769408,
+			"lon":14.792239
+		},
+		{
+			"nome":"Ufficio Postale",
+			"lat":40.769066,
+			"lon":14.789575
+		},
+		{
+			"nome":"Terminal BUS",
+			"lat":40.773680,
+			"lon":14.793425
+		},
+		{
+			"nome":"Banca Unicredit",
+			"lat":40.769280,
+			"lon":14.789698
+		},
+		{
+			"nome":"Segreterie Studenti",
+			"lat":40.770101,
+			"lon":14.792507
+		},
+		{
+			"nome":"Laboratorio T26",
+			"lat":40.772314,
+			"lon":14.791089
+		},
+		{
+			"nome":"Laboratorio Geotecnica",
+			"lat":40.770654,
+			"lon":14.789511
+		},
+		{
+			"nome":"Laboratorio BIO(Ing./Mec.)",
+			"lat":40.770186,
+			"lon":14.789814
+		},
+		{
+			"nome":"Laboratorio Strutture",
+			"lat":40.770318,
+			"lon":14.789836
+		},
+		{
+			"nome":"Laboratorio LIDAM",
+			"lat":40.770620,
+			"lon":14.790267
+		}
+	]
+}

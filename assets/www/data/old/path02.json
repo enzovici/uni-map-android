@@ -1,0 +1,48 @@
+	{
+	"pathId": "path02",
+	"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Dal punto di incontro uscire dalla porta principale</li><li> <img src='png/dx.png'> &nbsp; 2. Nei pressi della strada girare a DESTRA</li><li> <img src='png/dritto.png'> &nbsp; 3. Proseguire dritto</li> <li> <img src='png/fontana.png'> &nbsp; 4. Arrivare alla fontana </li><li> <img src='png/dx.png'> &nbsp; 5. Girare a DESTRA</li><li> <img src='png/discesa.png'> &nbsp; 6. Percorrere la discesa</li><li> <img src='png/incrocio.png'> &nbsp; 7. Arrivare all&#39;incrocio</li><li> <img src='png/attraversare.png'> &nbsp; 8. Attraversare la strada</li><li> <img src='png/discesa.png'> &nbsp; 9. Percorrere la discesa</li><li> <img src='png/incrocio.png'> &nbsp; 10. Arrivare all&#39;incrocio</li><li> <img src='png/dx.png'> &nbsp; 11. Girare a DESTRA</li><li> <img src='png/camminare.png'> &nbsp; 10. Proseguire per <span>50m</span></li><li> <img src='png/attraversare.png'> &nbsp; 11. Attraversare la strada in corrispondenza delle strisce pedonali</li><li> <img src='png/camminare.png'> &nbsp; 12. Proseguire per il selciato</li><li> <img src='png/arrivo.png'> &nbsp; 13. Arrivo al CUS-Salerno</li></ul>",
+	"lista": [{
+		"lat": 40.772260,
+		"lon": 14.791250
+	},
+	{
+		"lat": 40.772455,
+		"lon": 14.791619
+	},
+	{
+		"lat": 40.772128,
+		"lon": 14.791877
+	},
+	{
+		"lat": 40.771468,
+		"lon": 14.791726
+	},
+	{
+		"lat": 40.770958,
+		"lon": 14.792086
+	},
+	{
+		"lat": 40.770591,
+		"lon": 14.791227
+	},
+	{
+		"lat": 40.770349,
+		"lon": 14.790534
+	},
+	{
+		"lat": 40.769583,
+		"lon": 14.788693
+	},
+	{
+		"lat": 40.769970,
+		"lon": 14.788365
+	},
+	{
+		"lat": 40.770550,
+		"lon": 14.787958
+	},
+	{
+		"lat": 40.770528,
+		"lon": 14.787344
+	}
+	]}

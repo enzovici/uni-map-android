@@ -1,0 +1,76 @@
+{
+"pathId": "path40",
+"percorso":"<ul>	<li> <img src='png/start.png'> &nbsp; 1. Uscire dal punto di incontro di Informatica</li>	<li> <img src='png/sx.png'> &nbsp; 2. Girare a SINISTRA</li>	<li> <img src='png/camminare.png'> &nbsp; 3. Proseguire sotto il porticato dell&#39;edificio</li>	<li> <img src='png/sx.png'> &nbsp; 4. Girare a SINISTRA</li>	<li> <img src='png/camminare.png'> &nbsp; 5. Proseguire esternamente superando il dipartimento di farmacia</li>	<li> <img src='png/entrata.png'> &nbsp; 6. Dopo circa <span>100m</span> entrare nel plesso di ingegneria</li> 	<li> <img src='png/ascensore.png'> &nbsp; 7. Utilizzare l&#39;ascensore sulla destra (Tasto: 0)</li>	<li> <img src='png/bar.png'> &nbsp; 8. Percorrere tutto il corridoio di ingegneria fino a giungere all&#39;area bar</li>	<li> <img src='png/uscita.png'> &nbsp; 9. Imboccare l&#39;uscita a SINISTRA</li>	<li> <img src='png/dx.png'> &nbsp; 10. all&#39;uscita svoltare a destra in prossimità della strada e proseguire per <span>500</span> metri</li> 	<li> <img src='png/fontana.png'> &nbsp; 11. Costeggiare la fontana alla propria DESTRA</li>	<li> <img src='png/camminare.png'> &nbsp; 12. Attraversare la piazza </li> 	<li> <img src='png/discesa.png'> &nbsp; 13. Proseguire fino alla rampa</li>	<li> <img src='png/dritto.png'> &nbsp; 14. Proseguire dritto</li>	<li> <img src='png/incrocio.png'> &nbsp; 15. Dirigersi fino al terzo incrocio (dopo il teatro dell&#39;Ateneo)</li>	<li> <img src='png/dx.png'> &nbsp; 16. Girare a DESTRA</li>	<li> <img src='png/dritto.png'> &nbsp; 17. Proseguire dritto fino al Rettorato</li>	<li> <img src='png/entrata.png'> &nbsp; 18. Entrare all&#39;interno del plesso del rettorato e dirigersi verso la sezione R8-Rettorato</li>	<li> <img src='png/dritto.png'> &nbsp; 19. Mantenere la sinistra e proseguire dritto lasciando sulla destra una rampa di scale	</li>	<li> <img src='png/camminare.png'> &nbsp; 20. Entrare nel corridoio e percorrerlo finche non si raggiunge un atrio, il laboratorio si trova dirimpetto all&#39;uscita di emergenza</li>	<li> <img src='png/arrivo.png'> &nbsp; 21. Arrivo al laboratorio H</li></ul>", 
+"lista": [{
+	"lat": 40.774688,
+	"lon": 14.789755
+},
+{
+	"lat": 40.774734,
+	"lon": 14.789712
+},
+{
+	"lat": 40.774547,
+	"lon": 14.789275
+},
+{
+	"lat": 40.773802,
+	"lon": 14.789861
+},
+{
+	"lat": 40.773573,
+	"lon": 14.789981
+},
+{
+	"lat": 40.773648,
+	"lon": 14.790193
+},
+{
+	"lat": 40.772287,
+	"lon": 14.791237
+},
+{
+	"lat": 40.772367,
+	"lon": 14.791447
+},
+{
+	"lat": 40.772455,
+	"lon": 14.791619
+},
+{
+	"lat": 40.772128,
+	"lon": 14.791877
+},
+{
+	"lat": 40.771468,
+	"lon": 14.791726
+},
+{
+	"lat": 40.770955,
+	"lon": 14.792087
+},
+{
+	"lat": 40.770833,
+	"lon": 14.791806
+},
+{
+	"lat": 40.770392,
+	"lon": 14.792156
+},
+{
+	"lat": 40.770073,
+	"lon": 14.792264
+},
+{
+	"lat": 40.769461,
+	"lon": 14.792775
+},
+{
+	"lat": 40.769069,
+	"lon": 14.791780
+},
+{
+	"lat": 40.768944,
+	"lon": 14.791878
+}
+]}

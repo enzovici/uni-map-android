@@ -1,0 +1,75 @@
+{
+	"pathId": "path01",
+	"percorso": "<ul><li> <img src='png/start.png'> &nbsp; 1. Uscire dall&#39;edificio del CUS-Salerno</li><li> <img src='png/camminare.png'> &nbsp; 2. Procedere verso sinistra, fino al ciglio della strada</li><li> <img src='png/attraversare.png'> &nbsp; 3. Attraversare la strada sulle strisce pedonali</li>    <li> <img src='png/dx.png'> &nbsp; 4. Girare a DESTRA</li><li> <img src='png/incrocio.png'> &nbsp; 5. Procedere fino all&#39;incrocio che dista circa <span>50m</span></li><li> <img src='png/sx.png'> &nbsp; 6. Girare a SINISTRA</li><li> <img src='png/salita.png'> &nbsp; 7. Percorrere la salita </li><li> <img src='png/incrocio.png'> &nbsp; 8. Attraversare l&#39;incrocio proseguendo dritto</li><li> <img src='png/fontana.png'> &nbsp; 9. Arrivare alla fontana </li><li> <img src='png/sx.png'> &nbsp; 10. Girare a SINISTRA</li><li> <img src='png/dritto.png'> &nbsp; 11. Continuare dritto fino al plesso di ingegneria</li><li> <img src='png/entrata.png'> &nbsp; 12. Entrare in corrispondenza dell&#39;area bar o al primo ingresso utile d&#39;Ingegneria</li><li> <img src='png/arrivo.png'> &nbsp; 13. Arrivo al punto di incontro di Ingegneria</li></ul>",
+	"lista": [{
+		"index": 0,
+		"lat": 40.770514,
+		"lon": 14.787551
+	},
+	{
+		"index": 1,
+		"lat": 40.770550,
+		"lon": 14.787958
+	},
+	{
+		"index": 2
+	},
+	{
+		"index": 3
+	},
+	{
+		"lat": 40.769970,
+		"lon": 14.788365
+	},
+	{
+		"index": 4,
+		"lat": 40.769583,
+		"lon": 14.788693
+	},
+	{
+		"index": 5
+	},
+	{
+		"index": 6,
+		"lat": 40.770349,
+		"lon": 14.790534
+	},
+	{
+		"index": 7
+	},
+	{
+		"lat": 40.770591,
+		"lon": 14.791227
+	},
+	{
+		"index": 8,
+		"lat": 40.770958,
+		"lon": 14.792086
+	},
+	{
+		"index": 9
+	},
+	{
+		"lat": 40.771468,
+		"lon": 14.791726
+	},
+	{
+		"lat": 40.772128,
+		"lon": 14.791877
+	},
+	{
+		"index": 10,
+		"lat": 40.772455,
+		"lon": 14.791619
+	},
+	{
+		"index": 11,
+		"lat": 40.772260,
+		"lon": 14.791250
+	},
+	{
+		"index": 12,
+		"lat": 40.772260,
+		"lon": 14.791250
+	}]
+}

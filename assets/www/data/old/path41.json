@@ -1,0 +1,52 @@
+{
+"pathId": "path41",
+"percorso":"<ul>	<li> <img src='png/start.png'> &nbsp; 1. Laboratorio H</li>    <li> <img src='png/dx.png'> &nbsp; 2. Girare a DESTRA e percorrere il corridoio finchè non si raggiunge l&#39;uscita dal rettorato</li>    <li> <img src='png/uscita.png'> &nbsp; 3. Uscire dal Rettorato</li> 	<li> <img src='png/dx.png'> &nbsp; 4. Girare a DESTRA</li> 	<li> <img src='png/camminare.png'> &nbsp; 5. Dirigersi fino alla fine del viale</li>	<li> <img src='png/sx.png'> &nbsp; 6. Girare a SINISTRA</li>	<li> <img src='png/salita.png'> &nbsp; 7. Proseguire fino alla rampa</li> 	<li> <img src='png/camminare.png'> &nbsp; 8. Attraversare la piazza </li> 	<li> <img src='png/fontana.png'> &nbsp; 9. Costeggiare la fontana alla propria SINISTRA</li>	<li> <img src='png/dritto.png'> &nbsp; 10. Continuare dritto fino al plesso di ingegneria</li>	<li> <img src='png/entrata.png'> &nbsp; 11. Entrare in corrispondenza dell&#39;area bar o al primo ingresso utile d&#39;Ingegneria</li> 	<li> <img src='png/arrivo.png'> &nbsp; 12. Arrivo al punto di incontro di Ingegneria</li></ul>", 
+"lista": [{
+	"lat": 40.768944,
+	"lon": 14.791878
+},
+{
+	"lat": 40.769069,
+	"lon": 14.791780
+},
+{
+	"lat": 40.769461,
+	"lon": 14.792775
+},
+{
+	"lat": 40.770073,
+	"lon": 14.792264
+},
+{
+	"lat": 40.770392,
+	"lon": 14.792156
+},
+{
+	"lat": 40.770833,
+	"lon": 14.791806
+},
+{
+	"lat": 40.770955,
+	"lon": 14.792087
+},
+{
+	"lat": 40.771468,
+	"lon": 14.791726
+},
+{
+	"lat": 40.772128,
+	"lon": 14.791877
+},
+{
+	"lat": 40.772455,
+	"lon": 14.791619
+},
+{
+	"lat": 40.772367,
+	"lon": 14.791447
+},
+{
+	"lat": 40.772287,
+	"lon": 14.791237
+}
+]}

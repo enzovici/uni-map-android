@@ -1,0 +1,78 @@
+{
+"pathId": "path42",
+"percorso":"<ul><li><img src='png/start.png'> &nbsp; 1. Punto di incontro di ingegneria</li><li><img src='png/uscita.png'> &nbsp; 2. Uscire dall&#39;edificio</li><li><img src='png/dx.png'> &nbsp; 3. Svoltare a destra in prossimità della strada e proseguire per <span>500</span> metri</li><li><img src='png/fontana.png'> &nbsp; 4. Costeggiare la fontana alla propria DESTRA</li><li><img src='png/camminare.png'> &nbsp; 5. Attraversare la piazza</li><li><img src='png/discesa.png'> &nbsp; 6. Proseguire fino alla rampa</li><li><img src='png/dritto.png'> &nbsp; 7. Proseguire dritto</li><li><img src='png/incrocio.png'> &nbsp; 8. Dirigersi fino al terzo incrocio (dopo il teatro dell&#39;Ateneo)</li><li><img src='png/dx.png'> &nbsp; 9. Girare a DESTRA</li><li><img src='png/dritto.png'> &nbsp; 10. Proseguire dritto fino al Rettorato</li><li><img src='png/entrata.png'> &nbsp; 11. Entrare all&#39;interno del plesso del rettorato e dirigersi verso la sezione R8-Rettorato</li><li><img src='png/dritto.png'> &nbsp; 12. Mantenere la sinistra e proseguire dritto lasciando sulla destra una rampa di scale</li><li><img src='png/camminare.png'> &nbsp; 13. Entrare nel corridoio e percorrerlo finche non si raggiunge un atrio, il laboratorio si trova di fronte all&#39;uscita di emergenza</li><li><img src='png/arrivo.png'> &nbsp; 14. Arrivo al laboratorio H</li></ul>", 
+"lista": [{
+	"index": 0,
+	"lat": 40.772287,
+	"lon": 14.791237
+},
+{
+	"index": 1,
+	"lat": 40.772367,
+	"lon": 14.791447
+},
+{
+	"index": 2,
+	"lat": 40.772455,
+	"lon": 14.791619
+},
+{
+	"lat": 40.772128,
+	"lon": 14.791877
+},
+{
+	"lat": 40.771468,
+	"lon": 14.791726
+},
+{
+	"index": 3,
+	"lat": 40.770955,
+	"lon": 14.792087
+},
+{
+	"lat": 40.770833,
+	"lon": 14.791806
+},
+{
+	"index": 4,
+	"lat": 40.770392,
+	"lon": 14.792156
+},
+{
+	"index": 5
+},
+{
+	"index": 6,
+	"lat": 40.770073,
+	"lon": 14.792264
+},
+{
+	"index": 7,
+	"lat": 40.769461,
+	"lon": 14.792775
+},
+{
+	"index": 8
+},
+{
+	"index": 9,
+	"lat": 40.769069,
+	"lon": 14.791780
+},
+{
+	"index": 10,
+	"lat": 40.768944,
+	"lon": 14.791878
+},
+{
+	"index": 11
+},
+{
+	"index": 12
+},
+{
+	"index": 13,
+	"lat": 40.768944,
+	"lon": 14.791878
+}
+]}

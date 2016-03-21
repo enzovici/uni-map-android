@@ -1,0 +1,72 @@
+{
+"pathId": "path21",
+"percorso":"<ul><li> <img src='png/start.png'> &nbsp; 1. Dalle residenze percorrere il cortile</li><li> <img src='png/sx.png'> &nbsp; 2. Girare a SINISTRA</li><li> <img src='png/uscita.png'> &nbsp; 3. Uscire dalle residenze</li><li> <img src='png/dx.png'> &nbsp; 4. Girare a DESTRA (direzione mensa)</li><li> <img src='png/camminare.png'> &nbsp; 5. Proseguire fino all&#39;immediato attraversamento pedonale</li><li> <img src='png/attraversare.png'> &nbsp; 6. Attraversare la strada</li><li> <img src='png/discesa.png'> &nbsp; 7. Varcare il cancello verde e percorrere la discesa</li><li> <img src='png/camminare.png'> &nbsp; 8. Costeggiare l&#39;intero perimetro dell&#39;edificio mensa fino all&#39;ultima uscita (frontale al terminal)</li><li> <img src='png/discesa.png'> &nbsp; 9. Scendere lungo il vialetto</li><li> <img src='png/sx.png'> &nbsp; 10. Girare a SINISTRA</li><li> <img src='png/discesa.png'> &nbsp; 11. Percorrere la discesa in direzione ingegneria</li><li> <img src='png/entrata.png'> &nbsp; 12. l&#39;ingresso di ingegneria lo troveremo di fronte</li><li> <img src='png/arrivo.png'> &nbsp; 13. Arrivo al punto di incontro di Ingegneria (sopra il bar)</li></ul>", 
+"lista": [{
+	"lat": 40.771846,
+	"lon": 14.795098
+},
+{
+	"lat": 40.772228,
+	"lon": 14.794793
+},
+{
+	"lat": 40.772104,
+	"lon": 14.794335
+},
+{
+	"lat": 40.772399,
+	"lon": 14.794174
+},
+{
+	"lat": 40.772420,
+	"lon": 14.793703
+},
+{
+	"lat": 40.772698,
+	"lon": 14.793504
+},
+{
+	"lat": 40.772681,
+	"lon": 14.793449
+},
+{
+	"lat": 40.772720,
+	"lon": 14.793267
+},
+{
+	"lat": 40.772863,
+	"lon": 14.793319
+},
+{
+	"lat": 40.772897,
+	"lon": 14.793365
+},
+{
+	"lat": 40.773164,
+	"lon": 14.793171
+},
+{
+	"lat": 40.773382,
+	"lon": 14.793682
+},
+{
+	"lat": 40.773197,
+	"lon": 14.793816
+},
+{
+	"lat": 40.773448,
+	"lon": 14.793680
+},
+{
+	"lat": 40.772538,
+	"lon": 14.791515
+},
+{
+	"lat": 40.772367,
+	"lon": 14.791447
+},
+{
+	"lat": 40.772287,
+	"lon": 14.791237
+}
+]}
